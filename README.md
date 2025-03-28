@@ -1,1 +1,1 @@
-init
+In this repository, we live-test the prediction model of our upcoming work [Tennis match outcome prediction using temporal directed graph neural networks](https://research-information.bris.ac.uk/en/publications/tennis-match-outcome-prediction-using-temporal-directed-graph-neu)
