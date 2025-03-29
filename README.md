@@ -1,4 +1,4 @@
-This repository is dedicated to publishing predictions (with probability estimates) [ante-post] for tennis matches using our graph neural network model, found at (HASH).
+This repository is dedicated to publishing ex-ante predictions (with probability estimates) for tennis matches using our graph neural network model, found at (HASH).
 
 This will serve as a live demonstration for our forthcoming paper [Tennis match outcome prediction using temporal directed graph neural networks](https://research-information.bris.ac.uk/en/publications/tennis-match-outcome-prediction-using-temporal-directed-graph-neu), available at [11th MathSport International Conference Proceedings 2025](https://math.uni.lu/midas/events/mathsports2025/).
 
