@@ -15,8 +15,9 @@ The predictions will cover [all matches from all Grand Slam and Master 1000 ATP 
 ## Features
 
 - **Match Predictions**: We will provide forecasts for upcoming tennis matches, including probability estimates for each outcome.
-- **CSV Publication**: Predictions will be published in CSV format, allowing for easy access and analysis.
-- **Live Updates**: The repository will feature live updates before each tournament round, ensuring no lookahead bias.
+- **Live Updates**: New predictions will be published before each tournament round, ensuring no lookahead bias.
+- **CSV Format**: Predictions will be saved in CSV format, allowing for easy access and analysis.
+
 
 
 ## Usage
