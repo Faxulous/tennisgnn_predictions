@@ -4,7 +4,7 @@ This will serve as a live demonstration for our forthcoming paper [Tennis match 
 
 ## Tournaments 
 
-The predictions will cover [all matches from all Grand Slam and Master 1000 ATP matches taking place on Clay courts](https://en.wikipedia.org/wiki/2025_ATP_Tour) starting with the Monte-Carlo Masters and [culminating at] the French Open, also known as Roland-Garros:
+The predictions will cover [every match from all Grand Slam and ATP Masters 1000 tournaments held on Clay courts](https://en.wikipedia.org/wiki/2025_ATP_Tour) starting with the Monte-Carlo Masters and ending with the French Open, also known as Roland-Garros:
 
 1. **Monte Carlo Masters (ATP Masters 1000)**: April 6 - April 13, 2025
 2. **Madrid Open (ATP Masters 1000)**: April 21 - May 4, 2025
