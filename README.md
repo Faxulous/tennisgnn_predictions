@@ -26,8 +26,8 @@ Updating will be ad-hoc, with probabilities, Kelly stakes, and outcomes updated 
 
 Our betting model will be detailed fully in our published work, so we state simply here:
 
-Unit: Bet on the player the model determines as the favourite (probablity>0.5), irrespective of bookmaker odds.
-Kelly: Bet on the player the model determines as the favourite (probability>0.5), only if the estimated probalility exceed that of the 1/o, where o is the decimal bookmaker odds for the favourite. 
+- **Unit**: Bet on the player the model determines as the favourite (probablity>0.5), irrespective of bookmaker odds.
+- **Kelly**: Bet on the player the model determines as the favourite (probability>0.5), only if the estimated probalility exceed that of the 1/o, where o is the decimal bookmaker odds for the favourite. 
 
 
 ## Usage
