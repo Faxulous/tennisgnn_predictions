@@ -20,6 +20,14 @@ The predictions will cover [every match from all Grand Slam and ATP Masters 1000
 - **Live Updates**: New predictions will be published before each tournament round, ensuring no lookahead bias.
 - **CSV Format**: Predictions will be saved in the easily accesible CSV format.
 
+## Updates
+
+Updating will be ad-hoc, with probabilities, Kelly stakes, and outcomes updated at different times. Importantly though, our probability estimates will always be published ex-ante. 
+
+Our betting model will be detailed fully in our published work, so we state simply here:
+
+Unit: Bet on the player the model determines as the favourite (probablity>0.5), irrespective of bookmaker odds.
+Kelly: Bet on the player the model determines as the favourite (probability>0.5), only if the estimated probalility exceed that of the 1/o, where o is the decimal bookmaker odds for the favourite. 
 
 
 ## Usage
