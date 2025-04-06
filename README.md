@@ -29,9 +29,35 @@ Our betting model will be detailed fully in our published work, so we state simp
 - **Unit**: Bet on the player the model determines as the favourite (probablity>0.5), irrespective of bookmaker odds. Bets are all equally sized at 0.1 units.
 - **Kelly**: Bet on the player the model determines as the favourite (probability>0.5), only if the estimated probalility exceed that of the 1/o, where o is the decimal bookmaker odds for the favourite. The stake size is determined by the Kelly criterion.
 
+## Data description
+
+- A and B state players names with random assignment.
+- Awin: contains binary indicators of whether A won or not (1 or 0).
+- PSA and PSB: The listed odds from Pinnacle Sports for players A and B respectively. Odds are obtained from [tennis-data.co.uk](tennis-data.co.uk)
+- ps_prob: The odds-implied probability for player A, estimated using Shin's method [[3](#3), [4](#4)].
+- model_prob: Our model's estimated probability for player A to win against player B.
+- welo_prob: The probability of player A winning against player B calculated with Weighted Elo [1](#1).
+- bt_prob: The probability of player A winning against player B calculated with a Bradley Terry model [1](#1).
 
 ## Usage
 
 Feel free to access the CSV files to view predictions and track the model's performance over time. As the repository is updated, you will be able to see the latest predictions and accuracy metrics.
 
 Stay tuned for the public release of the model.
+
+
+# References
+
+<a id="1">[1]</a> [G. Angelini, V. Candila, L. De Angelis, “Weighted Elo rating for tennis match predictions”. European Journal of Operational Research, 2022, 297, pp. 120-132.](https://doi.org/10.1016/j.ejor.2021.04.011)
+
+<a id="2">[2]</a> [R. A. Bradley, M. E. Terry, “Rank analysis of incomplete block designs: I. The method of paired comparisons”. Biometrika, 1952, 39, pp. 324-345.](https://doi.org/10.1093/biomet/39.3-4.324)
+
+<a id="3">[3]</a> 
+[H. S. Shin, “Prices of State Contingent Claims with Insider
+traders, and the Favorite-Longshot Bias”. The Economic
+Journal, 1992, 102, pp. 426-435.](https://doi.org/10.2307/2234526)
+
+<a id="4">[4]</a> 
+[H. S. Shin, “Measuring the Incidence of Insider Trading in a
+Market for State-Contingent Claims”. The Economic Journal,
+1993, 103(420), pp. 1141-1153.](https://doi.org/10.2307/2234240)
