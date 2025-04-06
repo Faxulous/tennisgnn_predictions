@@ -33,7 +33,7 @@ Our betting model will be detailed fully in our published work, so we state simp
 
 - A and B state players names with random assignment.
 - Awin: contains binary indicators of whether A won or not (1 or 0).
-- PSA and PSB: The listed odds from Pinnacle Sports for players A and B respectively. Odds are obtained from [tennis-data.co.uk](tennis-data.co.uk)
+- PSA and PSB: The listed odds from Pinnacle Sports for players A and B respectively. Odds are obtained from [tennis-data.co.uk](tennis-data.co.uk).
 - ps_prob: The odds-implied probability for player A, estimated using Shin's method [[3](#3), [4](#4)].
 - model_prob: Our model's estimated probability for player A to win against player B.
 - welo_prob: The probability of player A winning against player B calculated with Weighted Elo [1](#1).
