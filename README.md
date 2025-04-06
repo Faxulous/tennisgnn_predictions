@@ -2,7 +2,11 @@ This repository is dedicated to publishing ex-ante predictions (with probability
 
 The model is currently stored in a private repository with commit hash: 0cf9599df962333a3b42bf6b1546816e720b2b4b
 
-This repository will serve as a demonstration of our model, with no possiblity of lookahead-bias, for our forthcoming paper [Tennis match outcome prediction using temporal directed graph neural networks](https://research-information.bris.ac.uk/en/publications/tennis-match-outcome-prediction-using-temporal-directed-graph-neu), available at [11th MathSport International Conference Proceedings 2025](https://math.uni.lu/midas/events/mathsports2025/).
+This repository will serve as a demonstration of our model, with no possiblity of lookahead-bias, for our forthcoming paper:
+
+[Tennis match outcome prediction using temporal directed graph neural networks](https://research-information.bris.ac.uk/en/publications/tennis-match-outcome-prediction-using-temporal-directed-graph-neu)
+
+available at [11th MathSport International Conference Proceedings 2025](https://math.uni.lu/midas/events/mathsports2025/).
 
 ## Tournaments 
 
