@@ -4,7 +4,7 @@ The model is currently stored in a private repository with commit hash: 0cf9599d
 
 This repository will serve as a demonstration of our model, with no possiblity of lookahead-bias, for our forthcoming paper:
 
-[Tennis match outcome prediction using temporal directed graph neural networks](https://research-information.bris.ac.uk/en/publications/tennis-match-outcome-prediction-using-temporal-directed-graph-neu)
+[Tennis match outcome prediction using temporal directed graph neural networks](https://research-information.bris.ac.uk/en/publications/tennis-match-outcome-prediction-using-temporal-directed-graph-neu),
 
 available at [11th MathSport International Conference Proceedings 2025](https://math.uni.lu/midas/events/mathsports2025/).
 
