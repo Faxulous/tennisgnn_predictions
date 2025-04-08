@@ -1,8 +1,8 @@
-This repository is dedicated to publishing ex-ante predictions (with probability estimates) for tennis matches using our graph neural network model.
+This repository is dedicated to publishing ex-ante predictions (with probability estimates) for tennis matches using a graph neural network model.
 
 The model is currently stored in a private repository with commit hash: 0cf9599df962333a3b42bf6b1546816e720b2b4b
 
-This repository will serve as a demonstration of our model, with no possiblity of lookahead-bias, for our forthcoming paper:
+This repository will serve as a demonstration of our model, with no possiblity of lookahead-bias, for the forthcoming paper:
 
 [Tennis match outcome prediction using temporal directed graph neural networks](https://research-information.bris.ac.uk/en/publications/tennis-match-outcome-prediction-using-temporal-directed-graph-neu),
 
@@ -10,7 +10,7 @@ available at [11th MathSport International Conference Proceedings 2025](https://
 
 ## Tournaments 
 
-The predictions will cover every main-draw match from [all Grand Slam and ATP Masters 1000 tournaments held on Clay courts](https://en.wikipedia.org/wiki/2025_ATP_Tour) starting with the Monte-Carlo Masters and ending with the French Open, also known as Roland-Garros:
+The predictions will cover every main-draw event from [all Grand Slam and ATP Masters 1000 tournaments held on Clay courts](https://en.wikipedia.org/wiki/2025_ATP_Tour) starting with the Monte-Carlo Masters and ending with the French Open, also known as Roland-Garros:
 
 1. **Monte Carlo Masters (ATP Masters 1000)**: April 6 - April 13, 2025
 2. **Madrid Open (ATP Masters 1000)**: April 21 - May 4, 2025
@@ -26,7 +26,7 @@ The predictions will cover every main-draw match from [all Grand Slam and ATP Ma
 
 ## Updates
 
-Updating will be ad-hoc, with probabilities, Kelly stakes, and outcomes updated at different times. Importantly though, our probability estimates will always be published ex-ante. 
+Updates will be committed ad-hoc, with probabilities, Kelly stakes, and outcomes updated at different times. Importantly though, our probability estimates will always be published ex-ante. 
 
 Our betting model will be detailed fully in our published work, so we state simply here:
 
@@ -41,7 +41,7 @@ Our betting model will be detailed fully in our published work, so we state simp
 - ps_prob: The odds-implied probability for player A, estimated using Shin's method [[3](#3), [4](#4)].
 - model_prob: Our model's estimated probability for player A to win against player B.
 - welo_prob: The probability of player A winning against player B calculated with Weighted Elo [1](#1).
-- bt_prob: The probability of player A winning against player B calculated with a Bradley Terry model [1](#1).
+- bt_prob: The probability of player A winning against player B calculated with a Bradley Terry model [2](#2).
 
 ## Usage
 
