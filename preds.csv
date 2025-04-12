@@ -1,55 +1,55 @@
-﻿A,B,Awin,PSA,PSB,ps_prob,model_prob,welo_prob,bt_prob
+A,B,Awin,PSA,PSB,ps_prob,model_prob,welo_prob,bt_prob
 Bautista Agut R.,Nakashima B.,,,,,0.7184,0.5622,0.5877
 Giron M.,Shapovalov D.,,,,,0.2087,0.2861,0.3916
 Jarry N.,Dimitrov G.,,,,,0.3053,0.2151,0.3588
-Wawrinka S.,Tabilo A.,,,,,0.5323,0.519,0.5352
+Wawrinka S.,Tabilo A.,,,,,0.5323,0.5190,0.5352
 Davidovich Fokina A.,Shelton B.,,,,,0.7152,0.4135,0.4841
 Lehecka J.,Korda S.,,,,,0.2958,0.3817,0.4472
 Struff J.L.,Vacherot V.,,,,,0.6769,0.6442,0.5654
 Medvedev D.,Khachanov K.,,,,,0.4658,0.6827,0.5991
-Machac T.,Baez S.,,,,,0.729,0.6775,0.6093
+Machac T.,Baez S.,,,,,0.7290,0.6775,0.6093
 Tiafoe F.,Kecmanovic M.,,,,,0.3941,0.6204,0.5918
 Rune H.,Borges N.,,,,,0.6898,0.7103,0.6401
-Fognini F.,Cerundolo F.,,,,,0.361,0.4029,0.5035
+Fognini F.,Cerundolo F.,,,,,0.3610,0.4029,0.5035
 Arnaldi M.,Gasquet R.,,,,,0.4607,0.6145,0.5654
 Thompson J.,Mpetshi G.,,,,,0.5997,0.5175,0.5315
 Sonego L.,Martinez P.,,,,,0.6542,0.6461,0.5783
 Popyrin A.,Humbert U.,,,,,0.4651,0.4639,0.5028
 Griekspoor T.,Fils A.,,,,,0.5031,0.5021,0.4932
-Bu Y.,Musetti L.,,,,,0.1032,0.3440,0.4415
-Monfils G.,Marozsan F.,,,,,0.5854,0.4743,0.4816
-Navone M.,Berrettini M.,,,,,0.3107,0.4141,0.4341
-Muller A.,Ugo Carabelli C.,,,,,0.7045,0.5086,0.5015
-Auger-Aliassime F.,Altmaier D.,,,,,0.4554,0.5389,0.4837
-Etcheverry T.,Moutet C.,,,,,0.6186,0.5578,0.5198
-Lajovic D.,Cobolli F.,,,,,0.4477,0.5149,0.5200
-Zverev A.,Berrettini M.,,,,,0.8749,0.7188,0.6235
-Draper J.,Giron M.,,,,,0.5280,0.5673,0.5125
-Thompson J.,Tsitsipas S.,,,,,0.0648,0.1281,0.3011
-Lehecka J.,Musetti L.,,,,,0.2384,0.3141,0.4471
-Borges N.,Martinez P.,,,,,0.4753,0.5190,0.5368
-Etcheverry T.,Davidovich Fokina A.,,,,,0.4610,0.4800,0.4634
-Altmaier D.,Gasquet R.,,,,,0.4710,0.5248,0.5431
-Rublev A.,Monfils G.,,,,,0.7716,0.6886,0.6037
-Cerundolo F.,Alcaraz C.,,,,,0.3685,0.2732,0.3988
-Cobolli F.,Fils A.,,,,,0.4870,0.5130,0.5176
-Djokovic N.,Tabilo A.,,,,,0.9339,0.8178,0.6748
-Bautista Agut R.,Ruud C.,,,,,0.3055,0.3600,0.3953
-Machac T.,De Minaur A.,,,,,0.3004,0.4069,0.5022
-Medvedev D.,Muller A.,,,,,0.7462,0.6499,0.5617
-Vacherot V.,Dimitrov G.,,,,,0.2176,0.3001,0.4082
-Tiafoe F.,Popyrin A.,,,,,0.4132,0.4756,0.4793
-Rublev A.,Fils A.,,,,,0.8398,0.7159,0.6242
-Draper J.,Davidovich Fokina A.,,,,,0.3579,0.4657,0.4464
-Altmaier D.,Alcaraz C.,,,,,0.3186,0.2357,0.3875
-Popyrin A.,Ruud C.,,,,,0.2503,0.2270,0.3494
-Berrettini M.,Musetti L.,,,,,0.3436,0.4343,0.5009
-Borges N.,Tsitsipas S.,,,,,0.1559,0.1783,0.3355
-Tabilo A.,Dimitrov G.,,,,,0.1914,0.4051,0.4476
-De Minaur A.,Medvedev D.,,,,,0.5030,0.4189,0.4347
-Davidovich Fokina A.,Popyrin A.,,,,,0.4777,0.6054,0.5688
-Fils A.,Alcaraz C.,,,,,0.2749,0.1736,0.3402
-Dimitrov G.,De Minaur A.,,,,,0.5584,0.6091,0.5693
-Musetti L.,Tsitsipas S.,,,,,0.2450,0.3078,0.3983
-Davidovich Fokina A.,Alcaraz C.,,,,,0.3176,0.2360,0.4083
-Musetti L.,De Minaur A.,,,,,0.4453,0.6056,0.5603
+Bu Y.,Musetti L.,,,,,0.1032,0.3276,0.4080
+Monfils G.,Marozsan F.,,,,,0.5854,0.5535,0.5475
+Navone M.,Berrettini M.,,,,,0.3107,0.2659,0.3338
+Muller A.,Ugo Carabelli C.,,,,,0.7045,0.4950,0.4814
+Auger-Aliassime F.,Altmaier D.,,,,,0.4554,0.6694,0.6089
+Etcheverry T.,Moutet C.,,,,,0.6186,0.6188,0.5274
+Lajovic D.,Cobolli F.,,,,,0.4477,0.5014,0.4936
+Zverev A.,Berrettini M.,,,,,0.8749,0.7104,0.6203
+Draper J.,Giron M.,,,,,0.5280,0.7861,0.6216
+Thompson J.,Tsitsipas S.,,,,,0.0648,0.1922,0.3232
+Lehecka J.,Musetti L.,,,,,0.2384,0.4145,0.4596
+Borges N.,Martinez P.,,,,,0.4753,0.5828,0.5505
+Etcheverry T.,Davidovich Fokina A.,,,,,0.4610,0.4611,0.4366
+Altmaier D.,Gasquet R.,,,,,0.4710,0.4982,0.4843
+Rublev A.,Monfils G.,,,,,0.7716,0.5647,0.5194
+Cerundolo F.,Alcaraz C.,,,,,0.3685,0.1862,0.3183
+Cobolli F.,Fils A.,,,,,0.4870,0.4248,0.4733
+Djokovic N.,Tabilo A.,,,,,0.9339,0.9139,0.7874
+Bautista Agut R.,Ruud C.,,,,,0.3055,0.4082,0.4534
+Machac T.,De Minaur A.,,,,,0.3004,0.3416,0.4554
+Medvedev D.,Muller A.,,,,,0.7462,0.8463,0.7233
+Vacherot V.,Dimitrov G.,,,,,0.2176,0.2101,0.3405
+Tiafoe F.,Popyrin A.,,,,,0.4132,0.5796,0.5599
+Rublev A.,Fils A.,,,,,0.8398,0.7031,0.6176
+Draper J.,Davidovich Fokina A.,,,,,0.3579,0.6736,0.5405
+Altmaier D.,Alcaraz C.,,,,,0.3186,0.1024,0.2423
+Popyrin A.,Ruud C.,,,,,0.2503,0.3064,0.3822
+Berrettini M.,Musetti L.,,,,,0.3436,0.5389,0.5474
+Borges N.,Tsitsipas S.,,,,,0.1559,0.1811,0.3049
+Tabilo A.,Dimitrov G.,,,,,0.1914,0.2694,0.3682
+De Minaur A.,Medvedev D.,,,,,0.5030,0.3426,0.3749
+Davidovich Fokina A.,Popyrin A.,,,,,0.4777,0.5244,0.5515
+Fils A.,Alcaraz C.,,,,,0.2749,0.1324,0.2859
+Dimitrov G.,De Minaur A.,,,,,0.5584,0.5603,0.5483
+Musetti L.,Tsitsipas S.,,,,,0.2450,0.3093,0.3903
+Davidovich Fokina A.,Alcaraz C.,,,,,0.3176,0.1452,0.3229
+Musetti L.,De Minaur A.,,,,,0.4453,0.4107,0.4764
