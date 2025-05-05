@@ -72,13 +72,12 @@ df_preds.loc[matches_A_won.index, 'Awin'] = 1
 df_preds.loc[matches_A_won.index, 'PSA'] = matches_A_won['PSW']
 df_preds.loc[matches_A_won.index, 'PSB'] = matches_A_won['PSL']
 
-# Update based on matches where B won (only update rows not already filled)
-rows_to_update_B = matches_B_won.index.difference(matches_A_won.index)
-df_preds.loc[rows_to_update_B, 'Awin'] = 0
+# Update based on matches where B won
+df_preds.loc[matches_B_won.index, 'Awin'] = 0
 # Note: When B wins, A's odds (PSA) correspond to the loser's odds (PSL) in ATP
-df_preds.loc[rows_to_update_B, 'PSA'] = matches_B_won.loc[rows_to_update_B, 'PSL']
+df_preds.loc[matches_B_won.index, 'PSA'] = matches_B_won['PSL']
 # Note: When B wins, B's odds (PSB) correspond to the winner's odds (PSW) in ATP
-df_preds.loc[rows_to_update_B, 'PSB'] = matches_B_won.loc[rows_to_update_B, 'PSW']
+df_preds.loc[matches_B_won.index, 'PSB'] = matches_B_won['PSW']
 
 # --- Identify and Report Unmatched Rows ---
 unmatched_mask = df_preds['Awin'].isna()
