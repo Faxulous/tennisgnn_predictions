@@ -1,0 +1,1422 @@
+player_name,country,height,weight,date_of_birth,righthanded,index,bmi
+Spadea V.,USA,182,77,19/07/1974,1,0,23.24598478
+Dent T.,USA,188,88,24/04/1981,1,1,24.89814396
+Martin A.,,,,,,2,
+Nieminen J.,Finland,185,78,23/07/1981,0,3,22.79035793
+Arthurs W.,Australia,185,91,18/03/1971,0,4,26.58875091
+Sanguinetti D.,Italy,188,79,25/09/1972,1,5,22.35174287
+Lapentti N.,Ecuador,188,86,13/08/1976,1,6,24.33227705
+Hrbaty D.,Slovakia,183,79,04/01/1978,1,7,23.58983547
+Llodra M.,France,190,80,18/05/1980,0,8,22.16066482
+Saulnier C.,France,,,16/08/1975,1,9,
+Sluiter R.,Netherlands,185,80,13/04/1978,1,10,23.37472608
+Rusedski G.,Great Britain,193,91,06/09/1973,0,11,24.43018605
+Reid T.,Australia,,,03/06/1984,1,12,
+Levy H.,Israel,185,82,05/08/1978,1,13,23.95909423
+van Lottum J.,Netherlands,,,10/04/1976,1,14,
+Andreev I.,,,,,,15,
+Amritraj P.,India,188,75,02/10/1983,1,16,21.22000905
+Dupuis A.,France,185,87,24/02/1973,1,17,25.42001461
+Goldstein P.,,,,,,18,
+Lisnard J.R.,Monaco,173,68,25/09/1979,1,19,22.72043837
+Srichaphan P.,Thailand,185,82,14/06/1979,1,20,23.95909423
+Schalken S.,Netherlands,,,08/09/1976,1,21,
+Knowle J.,Austria,188,75,29/04/1974,0,22,21.22000905
+Moya C.,Spain,190,86,27/08/1976,1,23,23.82271468
+Mantilla F.,,,,,,24,
+Carlsen K.,Denmark,,,17/04/1973,0,25,
+Robredo T.,Spain,180,75,01/05/1982,1,26,23.14814815
+Ascione T.,France,187,89,17/01/1981,1,27,25.45111384
+Heuberger I.,Switzerland,,,19/02/1976,1,28,
+Sargsian S.,Armenia,,,03/06/1973,1,29,
+Youzhny M.,Russia,182,72,25/06/1982,1,30,21.73650525
+Ulihrach B.,Czech Republic,,,23/02/1975,1,31,
+Arazi H.,Morocco,,,19/10/1973,0,32,
+Henman T.,Great Britain,185,77,06/09/1974,1,33,22.49817385
+Chela J.I.,Argentina,190,75,30/08/1979,1,34,20.77562327
+Calleri A.,Argentina,182,86,14/09/1976,1,35,25.96304794
+Soderling R.,Sweden,190,81,14/08/1984,1,36,22.43767313
+Ljubicic I.,,,,,,37,
+Roddick A.,USA,187,88,30/08/1982,1,38,25.16514627
+Koubek S.,Austria,175,68,02/01/1977,0,39,22.20408163
+Bjorkman J.,Sweden,182,83,23/03/1972,1,40,25.05736022
+Sanchez D.,,,,,,41,
+Novak J.,,,,,,42,
+Carraz G.,France,,,09/04/1975,1,43,
+Coria G.,Argentina,175,69,13/01/1982,1,44,22.53061224
+Kohlschreiber P.,Germany,178,70,16/10/1983,1,45,22.09317005
+Muller G.,,,,,,46,
+Kuerten G.,Brazil,191,83,10/09/1976,1,47,22.75156931
+Hemmes F.,Netherlands,,,28/01/1981,1,48,
+Ancic M.,Croatia,195,81,30/03/1984,1,49,21.30177515
+Ferreira W.,,,,,,50,
+Mirnyi M.,Belarus,196,93,06/07/1977,1,51,24.20866306
+Verkerk M.,Netherlands,196,90,10/10/1978,1,52,23.42773844
+Kucera V.,Czech Republic,,,25/06/1987,1,53,
+Philippoussis M.,Australia,196,103,07/11/1976,1,54,26.81174511
+Guccione C.,Australia,200,91,30/07/1985,0,55,22.75
+Davydenko N.,Russia,177,70,02/06/1981,1,56,22.34351559
+Ginepri R.,USA,182,79,07/10/1982,1,57,23.8497766
+Golmard J.,France,,,09/09/1973,0,58,
+Melzer J.,Austria,182,75,22/05/1981,0,59,22.64219297
+Karlovic I.,Croatia,211,104,28/02/1979,1,60,23.35976281
+Gambill J.M.,USA,191,88,03/06/1977,1,61,24.12214577
+Martin T.,,,,,,62,
+Blanco G.,,,,,,63,
+Berdych T.,Czech Republic,195,90,17/09/1985,1,64,23.66863905
+Safin M.,Russia,193,88,27/01/1980,1,65,23.6247953
+Vacek J.,Czech Republic,,,10/05/1976,1,66,
+Federer R.,Switzerland,187,85,08/08/1981,1,67,24.30724356
+Volandri F.,Italy,182,73,05/09/1981,1,68,22.03840116
+Nalbandian D.,Argentina,180,79,,1,69,24.38271605
+Mayer F.,,,,,,70,
+Weiner G.,USA,,,27/04/1976,1,71,
+Pavel A.,,,,,,72,
+Corretja A.,Spain,180,73,11/04/1974,1,73,22.5308642
+Stepanek R.,Czech Republic,185,75,27/11/1978,1,74,21.9138057
+Ferrero J.C.,Spain,182,72,12/02/1980,1,75,21.73650525
+Ivanisevic G.,Croatia,193,82,13/09/1971,0,76,22.0140138
+Kendrick R.,USA,191,86,15/11/1979,1,77,23.57391519
+Hippensteel K.,,,,,,78,
+Moodie W.,RSA,196,91,14/02/1979,1,79,23.68804665
+Vliegen K.,Belgium,193,75,22/06/1982,1,80,20.13476872
+Ramirez-Hidalgo R.,Spain,183,74,06/01/1978,1,81,22.09680791
+Acasuso J.,Argentina,190,86,20/10/1982,1,82,23.82271468
+Zabaleta M.,Argentina,183,77,28/02/1978,1,83,22.99262444
+Garcia A.,,,,,,84,
+Squillari F.,Argentina,,,22/08/1975,0,85,
+Horna L.,Peru,180,81,14/09/1980,1,86,25
+Gonzalez F.,,,,,,87,
+Saretta F.,Brazil,183,70,28/06/1980,1,88,20.90238586
+Massu N.,Chile,182,80,10/11/1979,1,89,24.1516725
+Gasquet R.,France,183,79,18/06/1986,1,90,23.58983547
+Hernandez O.,,,,,,91,
+Malisse X.,Belgium,185,83,19/07/1980,1,92,24.25127831
+de Chaunac S.,,,,,,93,
+Popp A.,Germany,,,04/11/1976,1,94,
+Niemeyer F.,Canada,,,24/04/1976,1,95,
+Tursunov D.,Russia,185,81,12/12/1982,1,96,23.66691015
+Baker B.,,,,,,97,
+Schuettler R.,Germany,180,70,25/04/1976,1,98,21.60493827
+Cakl T.,Czech Republic,178,75,25/04/1981,1,99,23.67125363
+Montanes A.,Spain,175,70,26/11/1980,1,100,22.85714286
+Verdasco F.,Spain,188,90,15/11/1983,0,101,25.46401086
+Behrend T.,Germany,,,12/12/1974,1,102,
+Rochus O.,Belgium,167,65,18/01/1981,1,103,23.30668005
+Salzenstein J.,USA,,,14/10/1973,0,104,
+van Scheppingen D.,Netherlands,,,05/07/1975,1,105,
+Lopez F.,,,,,,106,
+Burgsmuller L.,Germany,,,06/12/1975,1,107,
+Mamiit C.,Philippines,173,70,27/06/1976,1,108,23.38868656
+Bogomolov A.,,,,,,109,
+Hanescu V.,Romania,198,88,21/07/1981,1,110,22.44668911
+Haas T.,Germany,187,88,03/04/1978,1,111,25.16514627
+Larose S.,Canada,,,28/06/1978,1,112,
+Hernych J.,Czech Republic,188,83,07/07/1979,1,113,23.48347669
+Labadze I.,Georgia,188,85,09/06/1981,0,114,24.04934359
+Benneteau J.,France,185,79,20/12/1981,1,115,23.082542
+Rocha D.,,,,,,116,
+Vanek J.,Czech Republic,185,86,24/04/1978,1,117,25.12783053
+Lopez M.,,,,,,118,
+Rochus C.,Belgium,170,68,15/12/1978,1,119,23.52941176
+Devilder N.,France,173,65,25/03/1980,0,120,21.71806609
+Lisnard J.,Monaco,173,68,25/09/1979,1,121,22.72043837
+Chela J.,Argentina,190,75,30/08/1979,1,122,20.77562327
+Elsner D.,Germany,,,04/01/1979,1,123,
+Almagro N.,Spain,182,81,21/08/1985,1,124,24.45356841
+Luczak P.,Australia,182,77,31/08/1979,1,125,23.24598478
+Waske A.,Germany,188,84,31/03/1975,1,126,23.76641014
+Pashanski B.,Serbia,180,74,03/11/1982,1,127,22.83950617
+Kratochvil M.,Switzerland,,,07/04/1979,1,128,
+Portas A.,Spain,,,15/11/1973,1,129,
+Calatrava A.,Spain,,,14/06/1973,1,130,
+Boutter J.,France,191,86,05/04/1974,1,131,23.57391519
+Vagnozzi S.,Italy,173,60,30/05/1983,1,132,20.04744562
+Guzman J.P.,Argentina,178,77,29/01/1981,0,133,24.30248706
+Browne F.,Argentina,,,07/04/1976,1,134,
+Mahut N.,France,191,82,21/01/1982,1,135,22.47745402
+Koellerer D.,Austria,180,80,17/08/1983,1,136,24.69135802
+Armando H.,USA,183,82,27/05/1978,1,137,24.48565201
+Zimonjic N.,Serbia,191,91,04/06/1976,1,138,24.94449165
+Haehnel J.,France,,,14/07/1980,1,139,
+Jeanpierre J.,France,,,10/03/1980,1,140,
+Mutis O.,France,,,02/02/1978,1,141,
+Voltchkov V.,Belarus,,,07/04/1978,1,142,
+Starace P.,Italy,187,84,14/07/1981,1,143,24.02127599
+Falla A.,Colombia,185,76,14/11/1983,0,144,22.20598977
+Elseneer G.,Belgium,188,77,03/06/1978,1,145,21.78587596
+Chiudinelli M.,Switzerland,185,85,10/09/1981,1,146,24.83564646
+Seppi A.,Italy,191,78,21/02/1984,1,147,21.38099285
+Marray J.,Great Britain,188,76,10/03/1981,1,148,21.50294251
+Dancevic F.,Canada,185,79,26/09/1984,1,149,23.082542
+Delgado J.,,,,,,150,
+Ancic I.,Croatia,,,29/10/1979,1,151,
+Flanagan I.,Great Britain,,,15/01/1982,1,152,
+Kohlmann M.,Germany,188,84,11/01/1974,1,153,23.76641014
+Petzschner P.,Germany,185,77,24/03/1984,1,154,22.49817385
+Bogdanovic A.,Great Britain,183,74,22/05/1984,0,155,22.09680791
+Parmar A.,Great Britain,,,22/03/1978,1,156,
+Bracciali D.,Italy,178,82,10/01/1978,1,157,25.88057064
+Peya A.,Austria,183,83,27/06/1980,1,158,24.78425752
+Pescosolido S.,Italy,,,13/06/1971,1,159,
+Hilton M.,Great Britain,,,20/04/1981,0,160,
+Verdasco M.,Spain,,,27/08/1986,1,161,
+Vahaly B.,USA,,,19/07/1979,1,162,
+Vassallo-Arguello M.,Argentina,185,80,10/02/1980,1,163,23.37472608
+di Pasquale A.,France,,,11/02/1979,1,164,
+Phau B.,Germany,175,70,04/10/1979,1,165,22.85714286
+Andersen J.F.,Norway,,,29/08/1972,0,166,
+Ram R.,,,,,,167,
+de Voest R.,,,,,,168,
+Okun N.,Israel,185,85,16/04/1978,1,169,24.83564646
+Schukin Y.,Kazakhstan,185,88,26/06/1979,1,170,25.71219869
+Cermak F.,Czech Republic,193,80,14/11/1976,1,171,21.47708663
+Eschauer W.,Austria,187,75,26/04/1974,1,172,21.44756785
+Minar I.,Czech Republic,182,85,21/05/1984,1,173,25.66115203
+Krajan Z.,Croatia,,,03/02/1979,1,174,
+Kubot L.,Poland,191,88,16/05/1982,1,175,24.12214577
+Mathieu P.H.,France,185,74,12/01/1982,1,176,21.62162162
+Pless K.,Denmark,188,84,09/02/1981,1,177,23.76641014
+Baghdatis M.,Cyprus,178,82,17/06/1985,1,178,25.88057064
+Tabara M.,Czech Republic,,,11/08/1979,1,179,
+Ketola T.,Finland,,,21/02/1975,1,180,
+Kim K.,,,,,,181,
+Tsonga J.W.,France,188,93,17/04/1985,1,182,26.31281123
+Lu H.,,,,,,183,
+Djokovic N.,Serbia,187,80,22/05/1987,1,184,22.8774057
+Boeker M.,USA,,,11/12/1980,1,185,
+Baccanello P.,Australia,,,12/06/1979,1,186,
+Wassen R.,Netherlands,191,94,09/08/1976,1,187,25.76683753
+Roger-Vasselin E.,France,187,75,28/11/1983,1,188,21.44756785
+Zhu B.Q.,China,,,13/03/1979,1,189,
+van Gemerden M.,Netherlands,183,75,09/05/1979,1,190,22.39541342
+Tipsarevic J.,Serbia,180,80,22/06/1984,1,191,24.69135802
+Wang Y.T.,Chinese Taipei,,,16/12/1994,1,192,
+Thomann N.,France,,,29/11/1972,1,193,
+Motomura G.,Japan,,,25/12/1973,1,194,
+Gimelstob J.,USA,,,26/01/1977,1,195,
+Terachi T.,Japan,,,08/07/1979,1,196,
+Gicquel M.,France,187,75,30/03/1977,1,197,21.44756785
+Monfils G.,France,193,85,01/09/1986,1,198,22.81940455
+Kunitsyn I.,Russia,180,75,30/09/1981,1,199,23.14814815
+Ryderstedt M.,Sweden,188,78,12/11/1984,0,200,22.06880942
+Vico U.,Italy,188,83,19/02/1981,1,201,23.48347669
+Luzzi F.,Italy,,,03/01/1980,1,202,
+Wessels P.,Netherlands,,,07/05/1978,1,203,
+Reynolds B.,USA,183,77,17/07/1982,1,204,22.99262444
+Healey N.,Australia,,82,27/02/1980,1,205,
+Widom T.,USA,,,24/04/1983,1,206,
+Gabashvili T.,Russia,188,83,23/05/1985,1,207,23.48347669
+Simon G.,,,,,,208,
+Sa A.,,,,,,209,
+Massa E.,,,,,,210,
+Wawrinka S.,Switzerland,182,79,28/03/1985,1,211,23.8497766
+Lapentti G.,Ecuador,193,91,25/01/1983,1,212,24.43018605
+Navarro-Pastor I.,Spain,183,86,19/10/1981,1,213,25.68007405
+Fogues F.,Spain,,,06/08/1977,0,214,
+Marin J.A.,Costa Rica,175,73,02/03/1975,1,215,23.83673469
+Mertinak M.,Slovakia,185,92,11/10/1979,1,216,26.88093499
+Dlouhy L.,Czech Republic,185,88,09/04/1983,1,217,25.71219869
+Rettenmaier T.,USA,188,84,06/08/1983,1,218,23.76641014
+di Mauro A.,Italy,185,71,09/08/1977,0,219,20.74506939
+Sherwood D.,Great Britain,,,06/05/1980,1,220,
+Udomchoke D.,Thailand,173,64,11/08/1981,1,221,21.383942
+Vinciguerra A.,Sweden,180,73,19/02/1981,0,222,22.5308642
+Sabau R.,Romania,185,76,18/06/1977,1,223,22.20598977
+Vemic D.,Serbia,188,91,17/06/1976,1,224,25.74694432
+Mergea F.,Romania,178,78,26/01/1985,1,225,24.61810377
+Bastl G.,Switzerland,183,85,01/04/1975,1,226,25.38146854
+Marach O.,Austria,185,85,16/07/1980,1,227,24.83564646
+Hadad A.,Israel,,,17/02/1978,1,228,
+Fleishman Z.,USA,187,84,17/03/1980,1,229,24.02127599
+Bozoljac I.,Serbia,193,86,02/08/1985,1,230,23.08786813
+Chadaj A.,Poland,178,72,01/05/1984,0,231,22.72440348
+El Aynaoui Y.,Morocco,,,12/09/1971,1,232,
+Jenkins S.,USA,,,23/08/1986,1,233,
+Ram A.,,,,,,234,
+Capdeville P.,Chile,190,78,02/04/1983,1,235,21.6066482
+Lammer M.,Switzerland,185,80,25/03/1982,1,236,23.37472608
+Wang Y. Jr,China,,,01/08/1981,0,237,
+Matsui T.,Japan,178,76,19/04/1978,1,238,23.98687034
+Gremelmayr D.,Germany,183,73,16/08/1981,0,239,21.79820239
+Taino E.,Philippines,,,18/03/1975,0,240,
+Karanusic R.,Croatia,183,75,05/09/1982,1,241,22.39541342
+Eitzinger R.,Austria,178,65,28/06/1983,1,242,20.51508648
+Berrer M.,Germany,190,99,01/07/1980,0,243,27.42382271
+Bopanna R.,India,193,84,04/03/1980,1,244,22.55094096
+Faurel J.C.,France,,,06/03/1981,1,245,
+Greul S.,Germany,185,80,13/04/1981,1,246,23.37472608
+Gimeno-Traver D.,Spain,183,80,07/08/1985,1,247,23.88844098
+Marcaccio G.,Argentina,,,03/05/1977,1,248,
+Del Potro J.M.,Argentina,198,97,23/09/1988,1,249,24.74237323
+Friedl L.,Czech Republic,183,80,01/01/1977,1,250,23.88844098
+Korolev E.,Kazakhstan,185,81,14/02/1988,1,251,23.66691015
+Warburg S.,USA,191,85,29/04/1983,1,252,23.2997999
+Ghem A.,Brazil,193,86,29/05/1982,1,253,23.08786813
+Meffert D.,Germany,198,92,09/04/1981,1,254,23.46699316
+Daniel M.,,,,,,255,
+Klec I.,Slovakia,183,79,28/11/1980,1,256,23.58983547
+Al Ghareeb M.,Kuwait,,,22/07/1980,1,257,
+Querry S.,,,,,,258,
+Berlocq C.,Argentina,182,75,03/02/1983,1,259,22.64219297
+Saoudi S.,Algeria,,,23/07/1975,0,260,
+Chardy J.,France,188,75,12/02/1987,1,261,21.22000905
+Gil F.,,,,,,262,
+Galvani S.,Italy,175,73,03/06/1977,1,263,23.83673469
+Kindlmann D.,Germany,183,71,03/06/1982,1,264,21.20099137
+Montcourt M.,France,183,75,04/03/1985,1,265,22.39541342
+Zverev M.,Germany,191,88,22/08/1987,0,266,24.12214577
+Bloomfield R.,Great Britain,185,75,27/04/1983,1,267,21.9138057
+Lee M.,,,,,,268,
+Roitman S.,Argentina,185,79,16/05/1979,1,269,23.082542
+De Bakker T.,,,,,,270,
+Fognini F.,Italy,178,79,24/05/1987,1,271,24.93372049
+Querrey S.,USA,198,95,07/10/1987,1,272,24.2322212
+Hartfield D.,Argentina,185,80,31/01/1981,1,273,23.37472608
+Haider-Mauer A.,,,,,,274,
+Oudsema S.,USA,,,01/07/1986,1,275,
+Ianni S.,Italy,,,31/01/1981,1,276,
+Przysiezny M.,Poland,185,84,16/02/1984,1,277,24.54346238
+Sweeting R.,USA,196,83,14/07/1987,1,278,21.60558101
+Stoppini A.,Italy,191,79,29/02/1980,1,279,21.65510814
+Hajek J.,Czech Republic,180,80,07/08/1983,1,280,24.69135802
+Iwabuchi S.,Japan,,,07/10/1975,0,281,
+Gregorc L.,Slovenia,190,85,14/02/1984,1,282,23.54570637
+Crivoi V.,Romania,,,25/05/1982,1,283,
+Ledovskikh M.,Russia,188,82,08/08/1986,1,284,23.20054323
+Auckland J.,Great Britain,,,01/04/1980,1,285,
+Naso G.,Italy,193,90,06/01/1987,1,286,24.16172246
+Troicki V.,Serbia,193,86,10/02/1986,1,287,23.08786813
+Kravchuk K.,Russia,191,80,23/02/1985,1,288,21.92922343
+Gulbis E.,Latvia,191,85,30/08/1988,1,289,23.2997999
+Robredo R.,Spain,180,75,01/05/1982,1,290,23.14814815
+Jones A.,,,,,,291,
+Rastogi K.,India,178,66,08/10/1986,1,292,20.83070319
+Smeets R.,Australia,188,70,10/11/1985,0,293,19.80534178
+Kuznetsov A.,,,,,,294,
+Levine J.,Canada,175,68,15/10/1987,0,295,22.20408163
+Haase R.,Netherlands,191,77,06/04/1987,1,296,21.10687755
+Bolelli S.,Italy,183,83,08/10/1985,1,297,24.78425752
+Granollers M.,Spain,191,80,12/04/1986,1,298,21.92922343
+Andujar P.,Spain,180,80,23/01/1986,1,299,24.69135802
+Gensse A.,France,180,,10/08/1983,1,300,
+Lorenzi P.,Italy,183,78,15/12/1981,1,301,23.29122996
+Brands D.,Germany,196,92,17/07/1987,1,302,23.94835485
+Bachinger M.,Germany,188,86,02/04/1987,1,303,24.33227705
+Summerer T.,Germany,,,01/02/1983,1,304,
+Economidis K.,Greece,188,80,02/11/1977,1,305,22.63467632
+Recouderc L.,Andorra,178,,10/07/1984,1,306,
+Brzezicki J.P.,Argentina,177,71,12/04/1982,1,307,22.66270867
+Cipolla F.,Italy,173,74,20/10/1983,1,308,24.72518293
+Baker J.,,,,,,309,
+Allegro Y.,Switzerland,183,82,24/08/1978,1,310,24.48565201
+Guccione A.,,,,,,311,
+Darcis S.,Belgium,175,78,13/03/1984,1,312,25.46938776
+Nishikori K.,Japan,178,73,29/12/1989,1,313,23.0400202
+Riba P.,Spain,183,78,07/04/1988,1,314,23.29122996
+Klizan M.,Slovakia,191,85,11/07/1989,0,315,23.2997999
+Isner J.,USA,208,108,26/04/1985,1,316,24.96301775
+Odesnik W.,USA,180,77,21/11/1985,0,317,23.7654321
+Lindahl N.,Australia,193,77,31/07/1988,1,318,20.67169588
+Prpic F.,Sweden,173,74,26/05/1982,1,319,24.72518293
+Rehnquist B.,Sweden,,,05/01/1978,1,320,
+Matsukevitch D.,Russia,191,80,28/03/1986,1,321,21.92922343
+Sirianni J.,Australia,178,76,17/01/1975,1,322,23.98687034
+Zovko L.,Croatia,191,80,18/03/1981,1,323,21.92922343
+Istomin D.,Uzbekistan,188,85,07/09/1986,1,324,24.04934359
+Schwank E.,Argentina,183,83,23/04/1986,1,325,24.78425752
+Decoud S.,Argentina,180,80,18/09/1981,0,326,24.69135802
+Bellucci T.,Brazil,188,82,30/12/1987,0,327,23.20054323
+Kukushkin M.,Kazakhstan,183,72,26/12/1987,1,328,21.49959688
+Del Potro J.,Argentina,198,97,23/09/1988,1,329,24.74237323
+Silva J.,,,,,,330,
+Ouahab L.,Morocco,185,83,22/12/1984,1,331,24.25127831
+Kavcic B.,Slovenia,188,78,05/03/1987,1,332,22.06880942
+Lopez-Jaen M.A.,Spain,188,84,29/11/1982,1,333,23.76641014
+Gonzalez M.,,,,,,334,
+Dell'Acqua M.,Italy,,,06/09/1979,1,335,
+Groth S.,Australia,193,100,19/10/1987,1,336,26.84635829
+Eaton C.,Great Britain,,76,27/11/1987,1,337,
+Bohli S.,Switzerland,185,82,25/07/1983,1,338,23.95909423
+Evans B.,USA,188,,08/04/1986,1,339,
+Qureshi A.U.H.,Pakistan,183,82,17/03/1980,1,340,24.48565201
+Rosol L.,Czech Republic,193,83,24/07/1985,1,341,22.28247738
+Dabul B.,Argentina,170,70,24/04/1984,0,342,24.22145329
+Huta Galung J.,Netherlands,188,89,06/10/1985,1,343,25.18107741
+Jun W.S.,South Korea,191,90,14/06/1986,1,344,24.67037636
+Mayer L.,Argentina,191,80,15/05/1987,1,345,21.92922343
+Devvarman S.,India,180,73,13/02/1985,1,346,22.5308642
+De Heart R.,,,,,,347,
+Cruciat A.,Romania,185,76,31/03/1983,1,348,22.20598977
+Scherrer J.C.,Switzerland,,,20/07/1978,1,349,
+Soeda G.,Japan,178,73,05/09/1984,1,350,23.0400202
+Jouan R.,France,193,77,16/07/1985,1,351,20.67169588
+Mannarino A.,France,180,79,29/06/1988,0,352,24.38271605
+De Voest R.,,,,,,353,
+Slanar M.,Austria,,,01/05/1981,1,354,
+Ouanna J.,France,193,91,14/04/1986,1,355,24.43018605
+Elgin M.,Russia,183,78,14/10/1981,1,356,23.29122996
+Lejnieks K.,Latvia,,,16/03/1988,1,357,
+Tomic B.,Australia,196,91,21/10/1992,1,358,23.68804665
+De Chaunac S.,,,,,,359,
+Klaasen R.,RSA,178,71,16/10/1982,1,360,22.40878677
+Van der Merwe I.,RSA,196,88,26/01/1984,1,361,22.90712203
+Veic A.,Croatia,180,74,18/02/1988,1,362,22.83950617
+Dodig I.,Croatia,183,83,02/01/1985,1,363,24.78425752
+Rufin G.,France,188,82,26/05/1990,1,364,23.20054323
+Ball C.,,,,,,365,
+Polansky P.,Canada,183,80,15/06/1988,1,366,23.88844098
+Witten J.,USA,178,82,15/10/1982,1,367,25.88057064
+Zeballos H.,Argentina,188,84,27/04/1985,0,368,23.76641014
+Copil M.,Romania,193,87,17/10/1990,1,369,23.35633171
+Zeng S.X.,China,,,29/08/1981,1,370,
+Marchenko I.,Ukraine,185,82,08/09/1987,1,371,23.95909423
+Guez D.,France,185,75,08/12/1982,1,372,21.9138057
+Dolgopolov O.,Ukraine,,,10/07/1964,1,373,
+Ebden M.,Australia,188,80,26/11/1987,1,374,22.63467632
+Statham J.,,,,,,375,
+Sergeyev I.,Ukraine,175,78,20/01/1988,1,376,25.46938776
+Brown D.,,,,,,377,
+Van Der Merwe I.,RSA,196,88,26/01/1984,1,378,22.90712203
+Jelenic P.,Croatia,,,13/06/1987,1,379,
+Sijsling I.,Netherlands,191,85,18/08/1987,1,380,23.2997999
+Berankis R.,Lithuania,175,77,21/06/1990,1,381,25.14285714
+Mertens Y.,Belgium,188,72,25/06/1987,1,382,20.37120869
+Matosevic M.,Australia,193,86,08/08/1985,1,383,23.08786813
+El Amrani R.,Morocco,185,82,19/05/1988,1,384,23.95909423
+Krajinovic F.,Serbia,185,75,27/02/1992,1,385,21.9138057
+Di Mauro A.,Italy,185,71,09/08/1977,0,386,20.74506939
+Tavares L.,Portugal,185,,20/02/1984,1,387,
+Kamke T.,Germany,178,76,21/05/1986,1,388,23.98687034
+Reister J.,Germany,188,87,02/04/1986,1,389,24.6152105
+Zemlja G.,Slovenia,183,81,29/09/1986,1,390,24.18704649
+Kontinen H.,Finland,191,82,19/06/1990,1,391,22.47745402
+Kudla D.,USA,180,79,17/08/1992,1,392,24.38271605
+Bubka S.,Ukraine,188,88,10/02/1987,1,393,24.89814396
+Skugor F.,Croatia,196,95,20/09/1987,1,394,24.72927947
+Sadecky A.,Switzerland,193,80,06/07/1987,0,395,21.47708663
+Haider-Maurer A.,Austria,191,89,22/03/1987,1,396,24.39626107
+Smyczek T.,USA,175,73,30/12/1987,1,397,23.83673469
+Paire B.,France,196,80,08/05/1989,1,398,20.82465639
+Ungur A.,Romania,178,73,22/01/1985,1,399,23.0400202
+Bemelmans R.,Belgium,183,75,14/01/1988,0,400,22.39541342
+Bhambri Y.,India,185,75,04/07/1992,1,401,21.9138057
+Raonic M.,Canada,196,98,27/12/1990,1,402,25.51020408
+Bai Y.,,,,,,403,
+Donskoy E.,Russia,185,75,09/05/1990,1,404,21.9138057
+Goffin D.,Belgium,180,70,07/12/1990,1,405,21.60493827
+Sugita Y.,Japan,175,72,18/09/1988,1,406,23.51020408
+Wolmarans F.,RSA,,,07/03/1986,1,407,
+Ramos A.,,,,,,408,
+Schoorel T.,Netherlands,203,85,08/04/1989,0,409,20.62656216
+Marti J.,,,,,,410,
+Olaso G.,Spain,175,,25/03/1988,1,411,
+Stebe C.M.,Germany,183,70,09/10/1990,0,412,20.90238586
+Knittel B.,Germany,180,71,08/08/1983,0,413,21.91358025
+Kosakowski D.,USA,185,79,21/02/1992,1,414,23.082542
+Pospisil V.,Canada,193,88,23/06/1990,1,415,23.6247953
+Duclos P.L.,Canada,188,75,08/01/1986,1,416,21.22000905
+Jaziri M.,Tunisia,185,81,20/01/1984,1,417,23.66691015
+Sock J.,USA,191,88,24/09/1992,1,418,24.12214577
+Giannessi A.,Italy,185,82,30/05/1990,0,419,23.95909423
+Renavand N.,France,,,25/06/1982,1,420,
+Zhang Z.,,,,,,421,
+Rieschick S.,Germany,188,,15/02/1986,1,422,
+Lajovic D.,Serbia,183,83,30/06/1990,1,423,24.78425752
+Bedene A.,,,,,,424,
+Thiem D.,Austria,185,79,03/09/1993,1,425,23.082542
+Duckworth J.,Australia,183,82,21/01/1992,1,426,24.48565201
+Dutra Silva R.,Brazil,178,73,05/02/1984,1,427,23.0400202
+Kutrovsky D.,Bulgaria,175,73,27/08/1987,1,428,23.83673469
+Bagnis F.,Argentina,183,82,27/02/1990,0,429,24.48565201
+Olivetti A.,France,203,104,24/11/1991,1,430,25.23720546
+Bautista R.,,,,,,431,
+Gutierrez-Ferrol S.,Spain,,,05/03/1989,1,432,
+Delbonis F.,Argentina,193,90,05/10/1990,0,433,24.16172246
+Zopp J.,Estonia,191,88,29/03/1988,1,434,24.12214577
+Balazs A.,Hungary,180,78,27/09/1988,1,435,24.07407407
+Trungelliti M.,Argentina,178,78,31/01/1990,1,436,24.61810377
+Oswald P.,Austria,201,95,23/01/1986,1,437,23.51426945
+Mcclune M.,USA,188,84,22/08/1989,1,438,23.76641014
+Klahn B.,USA,183,75,20/08/1990,0,439,22.39541342
+Reix C.,France,,,09/10/1983,1,440,
+Millot V.,France,173,75,30/01/1986,0,441,25.05930703
+Moriya H.,Japan,168,65,16/10/1990,1,442,23.03004535
+Rosenholm P.,Sweden,178,85,05/03/1988,1,443,26.82742078
+Millman J.,Australia,183,79,14/06/1989,1,444,23.58983547
+Stebe C-M.,Germany,183,70,09/10/1990,0,445,20.90238586
+Safwat M.,Egypt,180,83,19/09/1990,1,446,25.61728395
+Weintraub A.,Israel,185,80,16/09/1986,1,447,23.37472608
+Brugues-Davi A.,Spain,183,82,05/03/1985,0,448,24.48565201
+Garin C.,Chile,185,85,30/05/1996,1,449,24.83564646
+Viola M.,,,,,,450,
+Alund M.,Argentina,183,80,26/12/1985,1,451,23.88844098
+Pella G.,Argentina,183,79,17/05/1990,0,452,23.58983547
+Schwartzman D.,Argentina,170,64,16/08/1992,1,453,22.14532872
+Williams R.,,,,,,454,
+Laaksonen H.,Switzerland,185,78,31/03/1992,1,455,22.79035793
+Carreno-Busta P.,Spain,188,78,12/07/1991,1,456,22.06880942
+Kyrgios N.,Australia,193,85,27/04/1995,1,457,22.81940455
+Pouille L.,France,185,84,23/02/1994,1,458,24.54346238
+Edmund K.,Great Britain,188,83,08/01/1995,1,459,23.48347669
+Struff J.L.,Germany,193,92,25/04/1990,1,460,24.69864963
+Langer N.,Germany,193,77,25/01/1990,1,461,20.67169588
+Harrison C.,,,,,,462,
+Peliwo F.,Poland,180,72,30/01/1994,1,463,22.22222222
+Gojowczyk P.,Germany,188,83,15/07/1989,1,464,23.48347669
+Fucsovics M.,Hungary,188,82,08/02/1992,1,465,23.20054323
+Khachanov K.,Russia,198,87,21/05/1996,1,466,22.1916131
+Mecir M.,Slovakia,190,86,20/01/1988,1,467,23.82271468
+Herbert P.H.,France,188,75,18/03/1991,1,468,21.22000905
+Kokkinakis T.,Australia,193,84,10/04/1996,1,469,22.55094096
+Gonzalez A.,,,,,,470,
+Carballes Baena R.,Spain,183,77,23/03/1993,1,471,22.99262444
+Nedovyesov A.,Kazakhstan,193,81,15/02/1987,1,472,21.74555022
+Milojevic N.,Serbia,188,76,19/06/1995,1,473,21.50294251
+Kubler J.,Australia,178,74,19/05/1993,1,474,23.35563691
+Michon A.,France,,,16/12/1990,0,475,
+Saville L.,Australia,188,83,02/01/1994,1,476,23.48347669
+Puetz T.,Germany,185,77,19/11/1987,1,477,22.49817385
+Pavic A.,Croatia,196,96,07/03/1989,1,478,24.98958767
+Lindell C.,Sweden,193,87,20/11/1991,1,479,23.35633171
+Albot R.,Moldavsko,175,69,11/11/1989,1,480,22.53061224
+Ymer E.,Sweden,183,79,10/04/1996,1,481,23.58983547
+Olivo R.,Argentina,180,73,15/03/1992,1,482,22.5308642
+Krajicek A.,USA,188,79,16/06/1990,0,483,22.35174287
+Davydenko P.,Russia,183,81,02/09/1992,1,484,24.18704649
+Coric B.,Croatia,188,85,14/11/1996,1,485,24.04934359
+Kohlschreiber P..,Germany,178,70,16/10/1983,1,486,22.09317005
+Wang C.,,,,,,487,
+Basilashvili N.,Georgia,185,79,23/02/1992,1,488,23.082542
+Melzer G.,Austria,188,80,13/07/1990,0,489,22.63467632
+Jarry N.,Chile,198,90,11/10/1995,1,490,22.95684114
+Donaldson J.,USA,188,75,09/10/1996,1,491,21.22000905
+Vanni L.,Italy,198,94,04/06/1985,1,492,23.97714519
+Rublev A.,Russia,188,70,20/10/1997,1,493,19.80534178
+Arguello F.,Argentina,178,77,04/08/1992,1,494,24.30248706
+Andreozzi G.,Argentina,183,78,05/08/1991,1,495,23.29122996
+Chung H.,,,,,,496,
+Mektic N.,Croatia,183,79,24/12/1988,1,497,23.58983547
+Donati M.,Italy,185,74,28/02/1995,1,498,21.62162162
+Broady L.,Great Britain,183,78,04/01/1994,0,499,23.29122996
+Smith J.P.,Australia,188,84,24/01/1989,0,500,23.76641014
+Demoliner M.,Brazil,193,86,18/01/1989,1,501,23.08786813
+Menendez-Maceiras A.,Spain,183,75,28/10/1985,1,502,22.39541342
+Galan D.E.,Colombia,191,72,18/06/1996,1,503,19.73630109
+Gomez A.,,,,,,504,
+Trinker B.,Austria,188,83,11/05/1990,1,505,23.48347669
+Munar J.,Spain,183,76,05/05/1997,1,506,22.69401893
+Novak D.,,,,,,507,
+Herbert P.H,France,188,75,18/03/1991,1,508,21.22000905
+Zhang Ze,China,188,85,04/07/1990,1,509,24.04934359
+Karatsev A.,Russia,185,85,04/09/1993,1,510,24.83564646
+Fabbiano T.,Italy,173,70,26/05/1989,1,511,23.38868656
+Halys Q.,France,191,78,26/10/1996,1,512,21.38099285
+Jasika O.,Australia,183,60,18/05/1997,0,513,17.91633074
+Monteiro T.,Brazil,183,78,31/05/1994,0,514,23.29122996
+Fratangelo B.,USA,183,79,19/07/1993,1,515,23.58983547
+Kovalik J.,Slovakia,183,82,04/11/1992,1,516,24.48565201
+Carreno Busta P.,Spain,188,78,12/07/1991,1,517,22.06880942
+Bautista Agut R.,Spain,183,75,14/04/1988,1,518,22.39541342
+Cecchinato M.,Italy,185,78,30/09/1992,1,519,22.79035793
+Pavlasek A.,Czech Republic,185,76,08/10/1994,1,520,22.20598977
+Bourgue M.,France,188,83,18/01/1994,1,521,23.48347669
+Hemery C.,France,191,83,28/01/1995,1,522,22.75156931
+Soderlund C.,Sweden,188,80,03/06/1997,1,523,22.63467632
+Kicker N.,Argentina,178,75,16/08/1992,1,524,23.67125363
+Wessels L.,Germany,198,90,27/08/1998,1,525,22.95684114
+Mertl J.,Czech Republic,191,84,03/01/1982,1,526,23.0256846
+Lamasine T.,France,183,69,05/03/1993,1,527,20.60378035
+Cacic N.,Serbia,183,75,07/12/1990,1,528,22.39541342
+Diez S.,Canada,175,76,17/03/1991,1,529,24.81632653
+Shapovalov D.,Canada,185,75,15/04/1999,0,530,21.9138057
+Opelka R.,USA,211,102,28/08/1997,1,531,22.9105366
+Satral J.,Czech Republic,188,82,24/07/1990,1,532,23.20054323
+Wu D.,China,173,65,14/09/1991,1,533,21.71806609
+Whittington A.,Australia,188,82,11/08/1993,1,534,23.20054323
+Bublik A.,Kazakhstan,198,77,17/06/1997,1,535,19.64085297
+Ymer M.,Sweden,183,75,09/09/1998,1,536,22.39541342
+Gaio F.,Italy,180,84,05/03/1992,1,537,25.92592593
+Gombos N.,Slovakia,193,85,13/08/1990,1,538,22.81940455
+Djere L.,Serbia,188,82,02/06/1995,1,539,23.20054323
+Domingues J.,Portugal,178,70,05/10/1993,1,540,22.09317005
+Hanfmann Y.,Germany,193,86,13/11/1991,1,541,23.08786813
+Napolitano S.,Italy,196,90,11/04/1995,1,542,23.42773844
+Del Potro J. M.,Argentina,198,97,23/09/1988,1,543,24.74237323
+Altmaier D.,Germany,191,88,12/09/1998,1,544,24.12214577
+Ofner S.,Austria,191,81,12/05/1996,1,545,22.20333872
+Eubanks C.,USA,201,82,05/05/1996,1,546,20.29652731
+Sakharov G.,France,185,80,10/06/1988,1,547,23.37472608
+Zekic M.,Serbia,185,79,12/07/1988,1,548,23.082542
+Sandgren T.,USA,188,88,22/07/1991,1,549,24.89814396
+Travaglia S.,Italy,185,80,28/12/1991,1,550,23.37472608
+Maden Y.,Germany,185,70,28/10/1989,1,551,20.45288532
+Uchiyama Y.,Japan,183,78,05/08/1992,1,552,23.29122996
+Tsitsipas S.,Greece,193,89,12/08/1998,1,553,23.89325888
+Mmoh M.,USA,188,90,10/01/1998,1,554,25.46401086
+Berrettini M.,Italy,196,95,12/04/1996,1,555,24.72927947
+Ojeda Lara R.,Spain,178,75,26/01/1993,1,556,23.67125363
+Ivashka I.,Belarus,193,84,24/02/1994,1,557,22.55094096
+Marterer M.,Germany,191,84,15/06/1995,0,558,23.0256846
+Sonego L.,Italy,191,76,11/05/1995,1,559,20.83276226
+Taberner C.,Spain,183,78,08/08/1997,1,560,23.29122996
+Moutet C.,France,175,68,19/04/1999,0,561,22.20408163
+Quiroz R.,Ecuador,193,88,23/02/1992,0,562,23.6247953
+Griekspoor T.,Netherlands,188,85,02/07/1996,1,563,24.04934359
+Clezar G.,Brazil,180,77,31/12/1992,1,564,23.7654321
+Auger-Aliassime F.,Canada,193,88,08/08/2000,1,565,23.6247953
+Kuhn N.,Germany,185,75,20/03/2000,1,566,21.9138057
+Vatutin A.,Russia,178,69,27/10/1992,1,567,21.77755334
+Zapata Miralles B.,Spain,183,82,12/01/1997,1,568,24.48565201
+Horansky F.,Slovakia,191,77,07/01/1993,1,569,21.10687755
+Bolt A.,Australia,183,84,05/01/1993,0,570,25.08286303
+Molleker R.,Germany,185,75,26/10/2000,1,571,21.9138057
+Gunneswaran P.,India,188,80,12/11/1989,0,572,22.63467632
+Galovic V.,Croatia,193,88,19/09/1990,1,573,23.6247953
+Roca Batalla O.,Spain,173,75,30/04/1993,1,574,25.05930703
+Huesler M.A.,Switzerland,196,88,24/06/1996,0,575,22.90712203
+Masur D.,Germany,183,78,06/11/1994,1,576,23.29122996
+Koepfer D.,Germany,180,79,29/04/1994,0,577,24.38271605
+Humbert U.,France,188,73,26/06/1998,0,578,20.65414215
+Lestienne C.,France,180,77,23/05/1992,1,579,23.7654321
+Watanuki Y.,,,,,,580,
+Wu Y.,,,,,,581,
+Popyrin A.,,,,,,582,
+Kecmanovic M.,Serbia,183,75,31/08/1999,1,583,22.39541342
+Cachin P.,Argentina,185,77,12/04/1995,1,584,22.49817385
+Londero J.I.,Argentina,180,70,15/08/1993,1,585,21.60493827
+Schnur B.,Canada,193,84,04/07/1995,1,586,22.55094096
+Barrere G.,France,183,80,16/02/1994,1,587,23.88844098
+Dellien H.,Bolivia,180,75,16/06/1993,1,588,23.14814815
+Seyboth Wild T.,Brazil,185,78,10/03/2000,1,589,22.79035793
+Sinner J.,Italy,188,76,16/08/2001,1,590,21.50294251
+Davidovich Fokina A.,Spain,183,80,05/06/1999,1,591,23.88844098
+Benchetrit E.,Morocco,193,88,02/10/1998,1,592,23.6247953
+Celikbilek A.,Turkey,185,72,07/09/1996,1,593,21.03725347
+Krawietz K.,Germany,188,85,24/01/1992,1,594,24.04934359
+Majchrzak K.,Poland,180,78,13/01/1996,1,595,24.07407407
+Serdarusic N.,Croatia,191,85,13/12/1996,1,596,23.2997999
+Polmans M.,Australia,188,78,02/05/1997,1,597,22.06880942
+Lee D.H.,,,,,,598,
+Brooksby J.,USA,188,82,26/10/2000,1,599,23.20054323
+Avidzba A.,Russia,188,76,24/02/2000,1,600,21.50294251
+Ilkel C.,Turkey,183,82,21/08/1995,1,601,24.48565201
+Tabilo A.,Chile,188,75,02/06/1997,0,602,21.22000905
+Martinez P.,,,,,,603,
+Ruusuvuori E.,Finland,188,79,02/04/1999,1,604,22.35174287
+Marcora R.,Italy,193,85,30/08/1989,1,605,22.81940455
+Nakashima B.,,,,,,606,
+Barrios Vera M.T.,Chile,191,88,10/12/1997,1,607,24.12214577
+Varillas J.P.,Peru,185,78,06/10/1995,1,608,22.79035793
+Cressy M.,USA,201,88,08/05/1997,1,609,21.78163907
+Nagal S.,India,178,69,16/08/1997,1,610,21.77755334
+Rodionov J.,Austria,191,86,16/05/1999,0,611,23.57391519
+Gaston H.,France,173,68,26/09/2000,0,612,22.72043837
+Giustino L.,Italy,180,83,10/09/1991,1,613,25.61728395
+Petrovic D.,,,,,,614,
+Safiullin R.,Russia,185,75,07/08/1997,1,615,21.9138057
+Bergs Z.,Belgium,185,83,03/06/1999,1,616,24.25127831
+Forejtek J.,Czech Republic,180,71,10/03/2001,1,617,21.91358025
+Grenier H.,France,196,85,23/03/1996,1,618,22.12619742
+Kuzmanov D.,Bulgaria,193,77,28/07/1993,1,619,20.67169588
+Vukic A.,Australia,188,84,06/04/1996,1,620,23.76641014
+Sweeny D.,Australia,170,63,12/02/2001,1,621,21.79930796
+Torpegaard M.,Denmark,193,84,08/05/1994,1,622,22.55094096
+Vilella Martinez M.,Spain,178,74,03/07/1995,1,623,23.35563691
+Bourchier H.,Australia,185,78,24/01/1996,1,624,22.79035793
+Machac T.,Czech Republic,183,73,13/10/2000,1,625,21.79820239
+Cerundolo J.M.,Argentina,183,68,15/11/2001,0,626,20.30517483
+Etcheverry T.,Argentina,196,82,18/07/1999,1,627,21.3452728
+Cerundolo F.,Argentina,185,78,13/08/1998,1,628,22.79035793
+Rinderknech A.,France,196,86,23/07/1995,1,629,22.38650562
+Varillas J. P.,Peru,185,78,06/10/1995,1,630,22.79035793
+Lu Y.,,,,,,631,
+Cazaux A.,France,,,23/08/2002,1,632,
+Stricker D.,Switzerland,,,16/08/2002,0,633,
+Krstin P.,Serbia,183,80,03/09/1994,1,634,23.88844098
+Molcan A.,Slovakia,178,73,01/12/1997,0,635,23.0400202
+Cobolli F.,Italy,,71,06/05/2002,1,636,
+Couacaud E.,France,183,78,01/03/1995,1,637,23.29122996
+Draper J.,Great Britain,191,80,22/12/2001,0,638,21.92922343
+Kopriva V.,Czech Republic,178,69,15/06/1997,1,639,21.77755334
+Ajdukovic D.,Croatia,185,75,05/02/2001,1,640,21.9138057
+Svajda Z.,USA,175,59,,1,641,19.26530612
+Skatov T.,Kazakhstan,173,73,21/01/2001,1,642,24.39105884
+Vavassori A.,Italy,193,78,05/05/1995,1,643,20.94015947
+Ficovich J.P.,Argentina,191,78,24/01/1997,1,644,21.38099285
+Lehecka J.,Czech Republic,183,80,08/11/2001,1,645,23.88844098
+Brouwer G.,Netherlands,191,72,14/03/1996,0,646,19.73630109
+Kotov P.,Russia,191,86,18/11/1998,1,647,23.57391519
+Nikles J.,Switzerland,170,68,23/03/1997,1,648,23.52941176
+Guinard M.,France,196,81,15/11/1995,1,649,21.0849646
+Ugo Carabelli C.,Argentina,185,83,17/06/1999,1,650,24.25127831
+Gojo B.,Croatia,196,90,27/02/1998,1,651,23.42773844
+Kolar Z.,Czech Republic,185,76,09/10/1996,1,652,22.20598977
+Van Rijthoven T.,Netherlands,188,89,24/04/1997,1,653,25.18107741
+Peniston R.,Great Britain,183,75,10/11/1995,0,654,22.39541342
+Bellier A.,Switzerland,196,80,18/10/1996,0,655,20.82465639
+Ritschard A.,Switzerland,193,82,24/03/1994,1,656,22.0140138
+Misolic F.,Austria,,,08/08/2001,1,657,
+Zeppieri G.,Italy,185,78,07/12/2001,0,658,22.79035793
+Agamenone F.,Italy,188,82,15/04/1993,1,659,23.20054323
+Hijikata R.,Australia,178,68,23/02/2001,1,660,21.46193662
+Tseng C. H.,Chinese Taipei,175,65,08/08/2001,1,661,21.2244898
+Hernandez A.,,,,,,662,
+Tseng C.H.,Chinese Taipei,175,65,08/08/2001,1,663,21.2244898
+Nava E.,,,,,,664,
+Uchida K.,Japan,180,74,23/08/1994,1,665,22.83950617
+Leshem E.,Israel,183,70,19/03/1997,1,666,20.90238586
+Nardi L.,Italy,,,06/08/2003,1,667,
+Noguchi R.,Japan,168,63,28/12/1998,1,668,22.32142857
+Passaro F.,Italy,,,07/01/2001,1,669,
+Alvarez Varona N.,Spain,188,80,18/05/2001,1,670,22.63467632
+Shang J.,China,,,02/02/2005,0,671,
+Svrcina D.,Czech Republic,178,68,02/10/2002,1,672,21.46193662
+Darderi L.,Italy,,,14/02/2002,1,673,
+Barrios M.,,,,,,674,
+Fils A.,France,,,12/06/2004,1,675,
+Diaz Acosta F.,Argentina,183,73,15/12/2000,0,676,21.79820239
+Pecotic M.,Croatia,185,83,03/07/1989,0,677,24.25127831
+Riedi L.,Switzerland,,,27/01/2002,1,678,
+Berrettini J.,Italy,191,85,27/11/1998,1,679,23.2997999
+Bonadio R.,Italy,180,81,13/07/1993,1,680,25
+Wu T.L.,Chinese Taipei,188,81,12/05/1998,1,681,22.91760978
+Van Assche L.,France,,,11/05/2004,1,682,
+Gakhov I.,Russia,191,80,04/11/1996,0,683,21.92922343
+Arnaldi M.,Italy,,,22/02/2001,1,684,
+Shelbayh A.,Jordan,,,16/11/2003,0,685,
+Marozsan F.,Hungary,,,08/10/1999,1,686,
+Llamas Ruiz P.,Spain,,,13/10/2002,1,687,
+Tirante T.A.,Argentina,185,78,10/04/2001,1,688,22.79035793
+Olivieri G.,Argentina,175,73,04/08/1998,1,689,23.83673469
+Choinski J.,Great Britain,196,80,10/06/1996,1,690,20.82465639
+Mayot H.,France,178,71,04/02/2002,1,691,22.40878677
+Medjedovic H.,Serbia,,,18/07/2003,1,692,
+Michelsen A.,USA,,,25/08/2004,1,693,
+Quinn E.,USA,,,12/03/2004,1,694,
+Prizmic D.,Croatia,,,05/08/2005,1,695,
+Piros Z.,Hungary,180,68,13/10/1999,1,696,20.98765432
+Meligeni Alves F.,Brazil,185,78,19/02/1998,1,697,22.79035793
+Shimabukuro S.,Japan,183,75,30/07/1997,1,698,22.39541342
+Diallo G.,Canada,,,24/09/2001,1,699,
+Mensik J.,Czech Republic,,,01/09/2005,1,700,
+Droguet T.,France,,,15/06/2001,1,701,
+Hsu Y.,,,,,,702,
+Sekulic P.,Australia,,,05/09/2003,1,703,
+Coppejans K.,Belgium,180,68,07/02/1994,1,704,20.98765432
+Kachmazov A.,Russia,,,17/08/2002,1,705,
+Zhukayev B.,Kazakhstan,,,12/10/2000,1,706,
+Atmane T.,France,,,09/01/2002,0,707,
+Lajal M.,Estonia,,,12/05/2003,1,708,
+Mpetshi G.,France,,,08/07/2003,1,709,
+Valkusz M.,Hungary,183,75,13/08/1998,1,710,22.39541342
+Burruchaga R.,Argentina,,,23/01/2002,1,711,
+Kypson P.,USA,188,79,28/10/1999,1,712,22.35174287
+Navone M.,Argentina,,,27/02/2001,1,713,
+Damm M.,,,,,,714,
+Landaluce M.,Spain,,,08/01/2006,1,715,
+Jorda Sanchis D.,Spain,196,86,14/06/1994,1,716,22.38650562
+Hardt N.,Dominican Rep.,183,84,20/09/2000,1,717,25.08286303
+Moro Canas A.,Spain,,,07/12/2000,1,718,
+Gigante M.,Italy,,,04/01/2002,0,719,
+Squire H.,Germany,,,27/09/2000,1,720,
+Hussey G.,Great Britain,,,26/05/1997,0,721,
+Jubb P.,Great Britain,180,69,31/10/1999,1,722,21.2962963
+Walton A.,Australia,185,76,17/04/1999,1,723,22.20598977
+Virtanen O.,Finland,,,21/06/2001,1,724,
+Comesana F.,Argentina,,,06/10/2000,1,725,
+Fearnley J.,Great Britain,,,15/07/2001,1,726,
+Yevseyev D.,Kazakhstan,189,75,22/05/1993,1,727,20.99605274
+Heide G.,Brazil,,,28/02/2002,1,728,
+Blanchet U.,France,,,05/01/1999,1,729,
+Spizzirri E.,USA,185,,23/12/2001,1,730,
+Bellucci M.,Italy,,,01/06/2001,0,731,
+Neumayer L.,Austria,,,06/09/2002,1,732,
+Hong S.,,,,,,733,
+Schoolkate T.,Australia,183,78,26/02/2001,1,734,23.29122996
+Mankad H.,India,173,70,10/11/1979,1,735,23.38868656
+Khalfan S.,Qatar,,,16/03/1977,1,736,
+Hantschk M.,Germany,,,19/11/1977,1,737,
+Rea S.,New Zealand,,,18/07/1982,0,738,
+Ferrero J.,Spain,182,72,12/02/1980,1,739,21.73650525
+Larkham T.,Australia,,,13/10/1974,1,740,
+Kutsenko V.,Russia,180,76,16/03/1977,1,741,23.45679012
+Santopadre V.,Italy,183,76,11/08/1971,0,742,22.69401893
+Hormazabal G.,Chile,176,,19/02/1985,1,743,
+Gamonal H.,Chile,,,31/05/1977,1,744,
+Moyano D.,Argentina,,,14/03/1975,1,745,
+Braga P.,Brazil,,,27/02/1975,1,746,
+Phillips T.,USA,,,26/08/1977,1,747,
+Mazarakis V.,Greece,,,09/02/1980,1,748,
+Savolt A.,Hungary,,,05/02/1976,1,749,
+Veronelli D.,Argentina,193,83,05/12/1979,1,750,22.28247738
+Burniol G.,Spain,,,14/08/1983,1,751,
+Matos-Gil I.,Spain,,,14/12/1982,1,752,
+Perez D.,,,,,,753,
+Navarro S.,,,,,,754,
+Ziadi M.,Morocco,,,20/09/1986,1,755,
+Prinosil D.,Germany,185,82,09/03/1973,1,756,23.95909423
+Childs L.,Great Britain,,,11/06/1982,1,757,
+Fitz S.,Germany,,,12/08/1979,1,758,
+Hellstrom M.,Sweden,,,21/02/1978,1,759,
+van der Meer N.,Netherlands,,,18/01/1985,1,760,
+Ager J.,Austria,196,80,10/03/1984,1,761,20.82465639
+Schiessling T.,Austria,180,66,01/11/1974,0,762,20.37037037
+Gimeno D.,Spain,183,80,07/08/1985,1,763,23.88844098
+Tuksar S.,Croatia,,,12/05/1983,1,764,
+Nestor D.,Canada,191,86,04/09/1972,0,765,23.57391519
+Benneteau A.,France,,,30/06/1986,1,766,
+Wang Y.,,,,,,767,
+Ionita V.,Romania,185,72,11/05/1983,1,768,21.03725347
+Bohane A.,USA,,,15/09/1981,0,769,
+Crabb J.,Australia,183,83,06/03/1978,1,770,24.78425752
+Iwami T.,Japan,168,,09/07/1978,1,771,
+Stoliarov A.,Russia,178,72,09/01/1977,1,772,22.72440348
+Gruber K.,Austria,,,27/10/1979,1,773,
+Settergren J.,Sweden,,,22/04/1978,1,774,
+Kimmich M.,Australia,,,21/01/1983,1,775,
+Paes L.,India,178,78,17/06/1973,1,776,24.61810377
+Abdulla M.,,,,,,777,
+Bourgeois L.,Australia,,,03/03/1977,1,778,
+Draper S.,Australia,,,05/06/1974,0,779,
+March O.,Spain,,,31/03/1988,1,780,
+Mackin A.,Great Britain,,,11/08/1981,1,781,
+Parada F.,Chile,,,16/05/1981,1,782,
+Harboe P.,Chile,,,20/07/1982,1,783,
+Dailey Z.,USA,,,14/11/1981,1,784,
+Minar J.,Czech Republic,189,77,09/04/1981,1,785,21.55594748
+Tecau H.,Romania,193,90,19/01/1985,1,786,24.16172246
+Mathieu P.,,,,,,787,
+Mirnegg M.,Austria,180,73,24/06/1982,1,788,22.5308642
+Tenconi T.,Italy,178,70,03/09/1980,1,789,22.09317005
+Uebel L.,Germany,180,88,14/10/1980,1,790,27.16049383
+Logtens P.,Netherlands,,,07/11/1979,1,791,
+Fraile G.,Spain,180,82,07/04/1978,1,792,25.30864198
+Zitko R.,Czech Republic,,,08/12/1978,1,793,
+Korteling S.,Netherlands,,,16/01/1984,1,794,
+Washington M.,,,,,,795,
+Thron A.,Germany,,,15/06/1987,1,796,
+Hipfl M.,Austria,,,26/04/1978,1,797,
+Matkowski M.,Poland,185,90,15/01/1981,1,798,26.29656684
+Fyrstenberg M.,Poland,191,80,08/07/1980,0,799,21.92922343
+Simmonds P.,USA,,,18/05/1986,1,800,
+Bester P.,Canada,188,79,06/10/1988,1,801,22.35174287
+Steckley R.,Canada,,,16/02/1980,1,802,
+Fruttero J.P.,USA,185,79,30/03/1981,1,803,23.082542
+Chen T.,,,,,,804,
+Do M.Q.,Viet Nam,,,07/01/1984,1,805,
+Ittogi T.,Japan,,,17/12/1984,1,806,
+Kirillov E.,Russia,,,14/07/1987,1,807,
+Davletshin V.,Russia,,,07/10/1984,1,808,
+Junaid R.,Australia,,,25/05/1981,1,809,
+Uppal V.,India,,,10/11/1976,1,810,
+Sultan-Khalfan A.,Qatar,,,16/03/1977,1,811,
+King-Turner D.,New Zealand,191,,15/05/1984,1,812,
+Adaktusson J.,Sweden,193,87,31/08/1980,1,813,23.35633171
+Snobel P.,Czech Republic,191,82,28/02/1980,0,814,22.47745402
+Prodon E.,France,180,76,27/06/1981,1,815,23.45679012
+Gallardo Valles M.,Mexico,,,08/04/1981,1,816,
+Granollers-Pujol M.,Spain,191,80,12/04/1986,1,817,21.92922343
+Skoch D.,Czech Republic,183,70,06/11/1976,1,818,20.90238586
+Luque D.,,,,,,819,
+Azzaro L.,Italy,188,75,30/05/1978,0,820,21.22000905
+Dorsch B.,Germany,178,84,10/01/1981,1,821,26.51180407
+Prpic A.,Sweden,,,22/02/1984,1,822,
+Vicente M.,,,,,,823,
+Patriarca D.,Argentina,,,28/06/1983,1,824,
+Sandbichler A.,Austria,,,22/01/1985,0,825,
+Belic L.,Croatia,,,14/10/1988,1,826,
+Panfil G.,Poland,183,76,,0,827,22.69401893
+Wang Y.Jr.,China,,,01/08/1981,0,828,
+Dolgopolov A.,Ukraine,180,71,07/11/1988,1,829,21.91358025
+Aranguren J.M.,Argentina,,,07/10/1983,1,830,
+Moser F.,Germany,196,92,23/09/1976,1,831,23.94835485
+Wagh A.,India,,,17/03/1990,0,832,
+Chaen T.,Japan,,,05/11/1973,1,833,
+Schuttler P.,Germany,,,28/02/1984,1,834,
+Echagaray B.,Mexico,,,08/05/1983,1,835,
+Fornell M.,Spain,,,26/01/1982,1,836,
+Dustov F.,Uzbekistan,193,88,22/05/1986,1,837,23.6247953
+Chaki R.,Morocco,,,14/04/1982,1,838,
+Eysseric J.,France,180,80,27/05/1990,0,839,24.69135802
+Nielsen F.,Denmark,188,87,27/08/1983,1,840,24.6152105
+Guzman J.,,,,,,841,
+Goransson T.,Sweden,,,26/03/1988,0,842,
+Tveit E.,Norway,,,28/12/1984,0,843,
+Levine I.,Russia,,,24/08/1980,1,844,
+Olejniczak D.,Poland,,,01/03/1983,1,845,
+McClune M.,USA,188,84,22/08/1989,1,846,23.76641014
+Wachiramanowong K.,Thailand,183,73,25/06/1990,1,847,21.79820239
+Siriluethaiwattana P.,Thailand,,,16/08/1989,0,848,
+Singh N.,,,,,,849,
+Youzhny A.,Russia,,,19/05/1980,,850,
+Cadart R.,France,,,08/08/1978,0,851,
+Haji A.,,,,,,852,
+Statham R.,New Zealand,178,80,25/04/1987,1,853,25.2493372
+Podlipnik H.,Chile,183,78,09/01/1988,1,854,23.29122996
+Bowles C.,USA,,,16/11/1988,1,855,
+Crugnola M.,Italy,188,84,24/05/1983,1,856,23.76641014
+Ramirez C.,,,,,,857,
+Al-Ghareeb M.,Kuwait,,,22/07/1980,1,858,
+Marrai M.,Italy,,,17/11/1986,1,859,
+Lipsky S.,USA,185,86,14/08/1981,1,860,25.12783053
+Middelkoop M.,Netherlands,191,85,03/09/1983,1,861,23.2997999
+Slabinsky A.,Great Britain,185,,06/03/1986,1,862,
+Brizzi A.,Italy,,,26/03/1984,1,863,
+Piccari F.,Italy,,,07/09/1979,1,864,
+Estrella V.,Dominican Rep.,170,77,02/08/1980,1,865,26.64359862
+Ignatik U.,Belarus,183,82,14/07/1990,1,866,24.48565201
+Djokovic M.,Serbia,,,20/08/1991,1,867,
+Xu J.C.,China,,,22/09/1988,1,868,
+Ito Y.,,,,,,869,
+Hajji A.,Qatar,,,25/01/1990,1,870,
+Ebelthite C.,Australia,179,,27/11/1984,1,871,
+Hutchins R.,Great Britain,,,22/02/1985,1,872,
+Hocevar R.,Brazil,180,80,09/05/1985,1,873,24.69135802
+Silva D.,,,,,,874,
+Poerschke L.,Germany,,,17/06/1984,1,875,
+Riba-Madrid P.,Spain,183,78,07/04/1988,1,876,23.29122996
+Zlatanovic A.,Serbia,193,77,04/12/1989,1,877,20.67169588
+Kloer S.,Germany,,,16/08/1985,1,878,
+Berta D.,Sweden,178,,26/11/1992,1,879,
+Ghedin R.,Italy,185,77,05/12/1985,1,880,22.49817385
+Britton D.,USA,193,84,17/03/1991,1,881,22.55094096
+Agostinelli B.,Canada,,,01/04/1987,1,882,
+Gong M.X.,China,178,73,24/08/1987,1,883,23.0400202
+Vovk S.,Russia,185,69,19/02/1991,1,884,20.16070124
+Yang T.H.,Chinese Taipei,178,80,29/03/1991,1,885,25.2493372
+Maamoun K.,,,,,,886,
+Lemke J.,Australia,,,25/01/1988,1,887,
+Saavedra Corvalan C.,Chile,178,65,01/08/1990,1,888,20.51508648
+Im K.T.,South Korea,185,75,06/01/1981,1,889,21.9138057
+Niland C.,Ireland,185,82,19/09/1981,1,890,23.95909423
+Emmrich M.,Germany,183,81,17/12/1984,0,891,24.18704649
+Alcaide G.,Spain,188,77,27/05/1986,1,892,21.78587596
+Velotti A.,Argentina,174,72,24/05/1992,1,893,23.78121284
+Lojda D.,Czech Republic,188,85,08/03/1988,0,894,24.04934359
+Si Y.M.,Malaysia,,,24/08/1979,1,895,
+Belyaev I.,Russia,180,79,09/08/1990,1,896,24.38271605
+Muster T.,Austria,180,77,02/10/1967,0,897,23.7654321
+Scholtz N.,RSA,,,05/02/1991,1,898,
+Romboli F.,Brazil,180,81,04/01/1989,1,899,25
+Borvanov R.,Moldavsko,183,80,31/03/1982,1,900,23.88844098
+Galdon P.,Argentina,,,28/11/1985,1,901,
+Kumantsov A.,Russia,,,04/08/1986,1,902,
+Awadhy O.,UAE,,,16/01/1982,1,903,
+Granollers-Pujol G.,,,,,,904,
+Cox D.,Great Britain,170,72,28/09/1990,1,905,24.91349481
+Golding O.,Great Britain,188,84,29/09/1993,1,906,23.76641014
+Grigelis L.,Lithuania,183,78,14/08/1991,1,907,23.29122996
+Sitak A.,New Zealand,185,84,08/02/1986,1,908,24.54346238
+Chvojka E.,Canada,185,80,26/10/1986,0,909,23.37472608
+Torebko P.,Germany,185,84,10/02/1988,1,910,24.54346238
+Li Z.,,,,,,911,
+Nedelko I.,Russia,185,80,12/05/1986,1,912,23.37472608
+Al Mutawa J.,Qatar,,,27/05/1994,1,913,
+Viola Mat.,Italy,185,80,07/07/1987,1,914,23.37472608
+Van D. Merwe I.,RSA,196,88,26/01/1984,1,915,22.90712203
+Mesaros K.,Croatia,188,89,02/07/1988,1,916,25.18107741
+Marcan D.,Croatia,178,78,12/02/1991,1,917,24.61810377
+Strode B.,USA,188,,09/07/1987,1,918,
+Molteni A.,Argentina,180,70,15/03/1988,1,919,21.60493827
+Cabal J.S.,Colombia,185,82,25/04/1986,1,920,23.95909423
+Idmbarek Y.,Morocco,,,07/12/1986,1,921,
+Moraru G.,Romania,180,72,28/01/1982,1,922,22.22222222
+Gomez-Herrera C.,Spain,191,85,30/04/1990,1,923,23.2997999
+Trusendi W.,Italy,,,03/01/1985,1,924,
+Ehrat S.,Switzerland,180,72,18/04/1991,1,925,22.22222222
+Authom M.,Belgium,,,29/03/1987,1,926,
+Betov S.,Belarus,185,74,15/10/1987,1,927,21.62162162
+Fidirko N.,Belarus,185,85,15/06/1987,1,928,24.83564646
+Deen Heshaam A.,Malaysia,,,24/12/1993,1,929,
+Inglot D.,Great Britain,198,94,06/03/1986,1,930,23.97714519
+Ali Mutawa J.M.,Qatar,,,27/05/1994,1,931,
+Zayed M. S.,Qatar,,,09/03/1994,1,932,
+Veger F.,Croatia,,,21/12/1994,1,933,
+Reyes-Varela M.A.,Mexico,175,73,21/06/1987,1,934,23.83673469
+Rachidi Y.,Morocco,,,13/09/1986,1,935,
+Granollers G.,,,,,,936,
+Desein N.,Belgium,191,85,09/06/1987,1,937,23.2997999
+Corrie E.,Great Britain,183,80,21/02/1988,1,938,23.88844098
+Reid M.,Australia,183,87,17/07/1990,1,939,25.97867957
+Bossel A.,Switzerland,,,28/12/1986,0,940,
+Salamanca C.,Colombia,196,83,15/01/1983,0,941,21.60558101
+Barrientos N.,Colombia,175,75,24/04/1987,1,942,24.48979592
+Struvay E.,Colombia,196,98,17/12/1990,1,943,25.51020408
+Westerhof B.,Netherlands,185,80,24/10/1985,1,944,23.37472608
+Topic J.,Croatia,,,08/12/1983,1,945,
+Setkic A.,Bosnia and Herzeg.,191,86,21/12/1987,1,946,23.57391519
+Bogaerts R.,Belgium,188,76,23/12/1993,0,947,21.50294251
+Trongcharoenchaikul W.,Thailand,193,,08/04/1995,1,948,
+Jeong S.Y.,South Korea,,,12/04/1993,1,949,
+Nedunchezhiyan J.,India,173,69,20/10/1988,0,950,23.05456246
+Zayed M.S.,Qatar,,,09/03/1994,1,951,
+Hossam K.,Egypt,,,08/04/1994,1,952,
+Struff J-L.,Germany,193,92,25/04/1990,1,953,24.69864963
+Lama G.,Chile,180,82,27/04/1993,1,954,25.30864198
+Khaddari H.,Morocco,,,19/08/1991,1,955,
+Ciorcila P.,Romania,180,70,20/09/1996,1,956,21.60493827
+Lokoli L.,France,188,78,18/10/1994,1,957,22.06880942
+Smethurst D.,Great Britain,188,83,13/10/1990,1,958,23.48347669
+Pasha N.,USA,191,85,15/07/1992,1,959,23.2997999
+Mcgee J.,Ireland,183,80,10/06/1987,1,960,23.88844098
+Burquier G.,France,,,08/07/1984,0,961,
+Ouyang B.,China,,76,19/05/1992,0,962,
+Herbert P-H.,France,188,75,18/03/1991,1,963,21.22000905
+Baluda V.,Russia,193,,30/09/1992,1,964,
+Escobar G.,Ecuador,178,79,20/01/1989,0,965,24.93372049
+Androic T.,Croatia,168,73,28/12/1991,1,966,25.86451247
+Quigley E.,USA,185,84,30/01/1989,1,967,24.54346238
+Vega Hernandez D.,Spain,188,78,23/06/1994,1,968,22.06880942
+Gigounon G.,Belgium,178,73,20/04/1989,1,969,23.0400202
+Shyla Y.,Belarus,193,90,05/03/1993,1,970,24.16172246
+Miedler L.,Austria,183,78,21/06/1996,1,971,23.29122996
+Zayid M. S.,Qatar,,,14/04/1995,1,972,
+Tearney F.,New Zealand,183,80,27/09/1990,1,973,23.88844098
+Lazov A.,Bulgaria,183,69,09/07/1990,0,974,20.60378035
+Gomez L.,,,,,,975,
+Linzer M.,Austria,180,77,02/11/1989,1,976,23.7654321
+Ortega-Olmedo R.,Spain,168,70,30/04/1991,1,977,24.8015873
+Samper-Montana J.,Spain,,,05/04/1990,1,978,
+Arvidsson I.,Sweden,188,79,06/08/1992,1,979,22.35174287
+Simonsson F.,Sweden,188,75,27/11/1994,1,980,21.22000905
+Lopez-Perez E.,Spain,180,76,03/06/1991,1,981,23.45679012
+Smith A.,,,,,,982,
+Myneni S.,India,193,85,19/10/1987,1,983,22.81940455
+Yuksel A.,Turkey,,78,19/05/1990,0,984,
+Zayid M.S.,Qatar,,,14/04/1995,1,985,
+Mott B.,Australia,180,77,21/04/1996,1,986,23.7654321
+Tepavac M.,Serbia,193,90,05/04/1994,1,987,24.16172246
+Bellotti R.,Italy,,,05/08/1991,1,988,
+Kwiatkowski T.S.,USA,188,82,13/02/1995,1,989,23.20054323
+Hernandez-Fernandez J.,Dominican Rep.,183,77,13/03/1990,1,990,22.99262444
+Halebian A.,USA,,,08/06/1994,0,991,
+Bangoura S.,USA,183,77,18/11/1991,1,992,22.99262444
+Bega A.,Italy,173,68,11/01/1991,1,993,22.72043837
+Chrysochos P.,Cyprus,185,84,08/04/1996,1,994,24.54346238
+Aragone J.,USA,178,79,28/06/1995,1,995,24.93372049
+Blancaneaux G.,France,180,75,08/08/1998,1,996,23.14814815
+Safranek V.,Czech Republic,185,80,20/05/1994,1,997,23.37472608
+Takahashi Y.,,,,,,998,
+Kadhe A.,India,185,83,07/01/1994,1,999,24.25127831
+Caruana L.,Italy,178,75,22/01/1998,1,1000,23.67125363
+Donski A.,Bulgaria,188,80,01/08/1998,1,1001,22.63467632
+Baldi F.,Italy,183,80,10/01/1996,1,1002,23.88844098
+Hernandez-Fernandez J,Dominican Rep.,183,77,13/03/1990,1,1003,22.99262444
+Reinberg E.,USA,188,86,20/04/1997,1,1004,24.33227705
+Garanganga T.,Zimbabwe,185,80,06/09/1990,1,1005,23.37472608
+Karlovskiy E.,Russia,191,85,07/08/1994,1,1006,23.2997999
+Lin J.M.,Canada,178,,15/04/1999,1,1007,
+Lopez Villasenor G.,Mexico,191,91,12/05/1995,1,1008,24.94449165
+Sakamoto P.,Brazil,178,78,29/06/1993,1,1009,24.61810377
+Basso A.,Italy,,,08/10/1993,0,1010,
+Aragone JC,USA,178,79,28/06/1995,1,1011,24.93372049
+Kirkin E.,Turkey,180,73,27/01/1999,1,1012,22.5308642
+Gromley C.,USA,,,26/12/1999,1,1013,
+Sarmiento R.,USA,178,68,24/07/1992,1,1014,21.46193662
+Roumane R.,Algeria,,,11/09/2000,1,1015,
+Zhang Ze.,China,188,85,04/07/1990,1,1016,24.04934359
+Dubrivnyy A.,Russia,183,75,31/01/1999,1,1017,22.39541342
+Mukund S.,India,185,78,14/01/1997,1,1018,22.79035793
+Popko D.,Kazakhstan,191,87,24/10/1996,1,1019,23.84803048
+Sachko V.,Ukraine,183,68,14/07/1997,1,1020,20.30517483
+Zuk K.,Poland,183,78,21/01/1999,1,1021,23.29122996
+Vrbensky M.,Czech Republic,180,65,26/12/1999,1,1022,20.0617284
+Nam J.S.,South Korea,183,80,15/08/1993,1,1023,23.88844098
+Fancutt T.,Australia,,,25/02/1995,1,1024,
+Menezes J.,Brazil,185,81,17/12/1996,1,1025,23.66691015
+Zayid M.,Qatar,,,14/04/1995,1,1026,
+Tsitsipas P.,,,,,,1027,
+Topo M.,Germany,,,13/09/2003,1,1028,
+Brancaccio R.,Italy,183,72,04/05/1997,1,1029,21.49959688
+Mejia N.,Colombia,185,77,11/02/2000,1,1030,22.49817385
+Collarini A.,Argentina,185,80,31/01/1992,0,1031,23.37472608
+Bryde T.,USA,180,70,24/08/1999,1,1032,21.60493827
+Riffice S.,USA,188,77,01/03/1999,1,1033,21.78587596
+Holmgren A.,Denmark,,,22/04/1998,1,1034,
+Tiurnev E.,Russia,,,08/04/1997,1,1035,
+Oliel Y.,Israel,188,78,05/01/2000,0,1036,22.06880942
+Durasovic V.,Norway,185,80,19/03/1997,1,1037,23.37472608
+Chakravarthi C.,,,,,,1038,
+Rehberg M.,,,,,,1039,
+Gimeno Valero C.,Spain,188,80,25/06/2001,1,1040,22.63467632
+Rodriguez Taverna S.,Argentina,191,82,16/07/1999,1,1041,22.47745402
+Blumberg W.,USA,188,84,26/01/1998,1,1042,23.76641014
+Dutra Da Silva D.,Brazil,,76,05/07/1988,0,1043,
+Casanova H.,Argentina,178,76,06/02/1994,1,1044,23.98687034
+Poljicak M.,Croatia,,,13/07/2004,1,1045,
+Pacheco Mendez R.,Mexico,188,73,25/04/2005,0,1046,20.65414215
+Chappell N.,USA,178,82,19/09/1992,0,1047,25.88057064
+Villanueva G.,,,,,,1048,
+Galarneau A.,Canada,180,79,02/03/1999,1,1049,24.38271605
+Pervolarakis M.,Greece,193,90,06/06/1996,1,1050,24.16172246
+Furness E.,France,170,66,13/08/1998,1,1051,22.83737024
+Chung Y.,,,,,,1052,
+Madaras D.,Sweden,191,85,12/09/1997,0,1053,23.2997999
+Maestrelli F.,Italy,,,21/12/2002,1,1054,
+Bailly G.,Belgium,,,19/09/2005,1,1055,
+Geerts M.,Belgium,178,73,17/01/1995,1,1056,23.0400202
+Dhamne M.,India,,,29/12/2007,1,1057,
+Pannu K.,New Zealand,,,07/01/1997,1,1058,
+Krutykh O.,Ukraine,,,10/03/2000,1,1059,
+Rybakov A.,USA,185,68,27/01/1997,0,1060,19.86851717
+Krall L.,USA,,,,1,1061,
+Alves M.,,,,,,1062,
+Lalami Laaroussi Y.,Morocco,,,18/04/2001,1,1063,
+Moundir A.,Morocco,191,91,26/04/1995,1,1064,24.94449165
+Vacherot V.,Monaco,193,,16/11/1998,1,1065,
+Lopez San Martin A.,Spain,178,70,02/06/1997,1,1066,22.09317005
+Loffhagen G.,Great Britain,188,83,19/04/2001,1,1067,23.48347669
+Fery A.,Great Britain,,,12/07/2002,1,1068,
+Mansouri S.,Tunisia,193,86,23/07/1995,1,1069,23.08786813
+Kirchheimer S.,USA,185,79,26/04/1995,1,1070,23.082542
+Cui J.,China,183,72,24/01/1998,1,1071,21.49959688
+Lock B.,Zimbabwe,198,86,04/03/1993,1,1072,21.93653709
+Li Zh.,,,,,,1073,
+Zhou Y.,,,,,,1074,
+Blockx A.,Belgium,,,08/04/2005,1,1075,
+Friberg K.,Sweden,185,91,25/03/1999,1,1076,26.58875091
+Wong C.,,,,,,1077,
+Mccabe J.,Australia,,,05/07/2003,1,1078,
+Escoffier A.,France,185,78,29/02/1992,1,1079,22.79035793
+Gomez F.,,,,,,1080,
+Blanch D.,,,,,,1081,
+Faria J.,,,,,,1082,
+Dougaz A.,Tunisia,188,80,26/03/1997,0,1083,22.63467632
+Sanchez Izquierdo N.,Spain,185,77,15/03/1999,1,1084,22.49817385
+Barranco Cosano J.,Spain,175,72,17/11/1998,0,1085,23.51020408
+Fanselow S.,Germany,193,,30/12/1991,1,1086,
+Searle H.,Great Britain,,,29/03/2006,0,1087,
+Schwaerzler J.,Austria,,,27/01/2006,0,1088,
+Mikrut L.,Croatia,,,16/04/2004,1,1089,
+Kasnikowski M.,Poland,,,06/07/2003,1,1090,
+Jacquet K.,France,175,65,11/05/2001,1,1091,21.2244898
+Forbes M.,USA,,,06/04/2006,1,1092,
+Beck K.,Slovakia,180,74,03/04/1982,1,1093,22.83950617
+Johansson T.,Sweden,180,80,24/03/1975,1,1094,24.69135802
+Clement A.,France,172,72,17/12/1977,1,1095,24.33747972
+Ferrer D.,Spain,175,72,02/04/1982,1,1096,23.51020408
+Grosjean S.,France,175,72,29/05/1978,1,1097,23.51020408
+Escude N.,France,,,03/04/1976,1,1098,
+Lee H.T.,South Korea,180,81,03/01/1976,1,1099,25
+Santoro F.,France,177,74,09/12/1972,1,1100,23.62028791
+Gaudio G.,Argentina,175,70,09/12/1978,1,1101,22.85714286
+Nadal R.,Spain,185,85,03/06/1986,0,1102,24.83564646
+Hewitt L.,Australia,180,77,24/02/1981,1,1103,23.7654321
+Johansson J.,Sweden,198,90,01/07/1982,1,1104,22.95684114
+Patience O.,France,180,75,25/03/1980,1,1105,23.14814815
+Enqvist T.,Sweden,191,88,13/03/1974,1,1106,24.12214577
+Blake J.,USA,185,83,28/12/1979,1,1107,24.25127831
+Agassi A.,USA,180,80,29/04/1970,1,1108,24.69135802
+Costa A.,Spain,,,25/06/1975,1,1109,
+Morrison J.,USA,,,04/02/1979,1,1110,
+Kucera K.,Slovakia,,,04/03/1974,1,1111,
+Canas G.,Argentina,185,86,25/11/1977,1,1112,25.12783053
+Fish M.,USA,187,81,09/12/1981,1,1113,23.16337327
+Miranda I.,Peru,175,70,08/03/1980,1,1114,22.85714286
+Monaco J.,Argentina,185,76,29/03/1984,1,1115,22.20598977
+Kiefer N.,Germany,182,80,05/07/1977,1,1116,24.1516725
+Rosset M.,Switzerland,,,07/11/1970,1,1117,
+Zib T.,Czech Republic,178,76,31/01/1976,1,1118,23.98687034
+Mello R.,Brazil,175,73,21/12/1980,0,1119,23.83673469
+Robert S.,France,185,77,17/05/1980,1,1120,22.49817385
+Vicente F.,Spain,180,76,08/03/1977,1,1121,23.45679012
+Ventura S.,Spain,182,78,05/01/1980,1,1122,23.54788069
+Garcia-Lopez G.,Spain,185,80,04/06/1983,1,1123,23.37472608
+Whitehouse W.,New Zealand,191,91,13/03/1979,0,1124,24.94449165
+Lu Y.H.,Chinese Taipei,180,74,14/08/1983,1,1125,22.83950617
+Beck A.,Germany,191,89,05/02/1986,0,1126,24.39626107
+Norman D.,Belgium,203,95,01/03/1971,0,1127,23.05321653
+Serra F.,France,180,77,28/02/1981,1,1128,23.7654321
+Delic A.,Bosnia and Herzeg.,196,93,30/06/1982,1,1129,24.20866306
+Suzuki T.,Japan,175,73,20/09/1976,1,1130,23.83673469
+Sun P.,China,,,19/10/1983,1,1131,
+Delgado R.,Paraguay,183,80,14/11/1976,1,1132,23.88844098
+Stakhovsky S.,Ukraine,193,80,06/01/1986,1,1133,21.47708663
+Puerta M.,Argentina,180,78,19/09/1978,0,1134,24.07407407
+Vik R.,Czech Republic,183,76,05/02/1980,1,1135,22.69401893
+Murray A.,Great Britain,190,83,15/05/1987,1,1136,22.99168975
+Galimberti G.,Italy,,,05/09/1976,1,1137,
+Aldi F.,Italy,175,75,17/09/1981,1,1138,24.48979592
+Cuadrado C.,Spain,,,01/06/1983,1,1139,
+Aguilar J.,Chile,178,68,08/01/1985,1,1140,21.46193662
+Cilic M.,Croatia,198,89,28/09/1988,1,1141,22.70176513
+Wilson B.,USA,,,23/05/1982,1,1142,
+Balleret B.,Monaco,183,85,15/01/1983,1,1143,25.38146854
+Tahiri M.,Morocco,,,28/07/1977,1,1144,
+Becker B.,Germany,177,79,16/06/1981,1,1145,25.21625331
+Alves T.,Brazil,178,75,22/05/1982,1,1146,23.67125363
+Junqueira D.,Argentina,178,72,28/12/1980,0,1147,22.72440348
+King P.,USA,175,66,19/12/1981,1,1148,21.55102041
+Clemens T.,Germany,,,14/08/1979,1,1149,
+Sela D.,Israel,175,65,04/04/1985,1,1150,21.2244898
+Russell M.,USA,173,70,01/05/1978,1,1151,23.38868656
+Stepanek M.,Czech Republic,,,13/12/1979,1,1152,
+Qureshi A.,Pakistan,183,82,17/03/1980,1,1153,24.48565201
+Stadler S.,Germany,183,75,20/07/1983,0,1154,22.39541342
+Young D.,USA,183,79,23/07/1989,0,1155,23.58983547
+Golubev A.,Kazakhstan,183,79,22/07/1987,1,1156,23.58983547
+Kudryavtsev A.,Russia,183,79,26/10/1985,1,1157,23.58983547
+Cuevas P.,Uruguay,180,78,,1,1158,24.07407407
+Marrero D.,Spain,183,89,08/04/1980,1,1159,26.57589059
+Anderson K.,RSA,203,94,18/05/1986,1,1160,22.81055109
+Giraldo S.,Colombia,188,75,27/11/1987,1,1161,21.22000905
+Sousa J.,Portugal,185,74,30/03/1989,1,1162,21.62162162
+Machado R.,Portugal,178,70,10/04/1984,1,1163,22.09317005
+Harrison R.,USA,185,84,07/05/1992,1,1164,24.54346238
+Trujillo G.,Spain,,,30/09/1979,1,1165,
+Eleskovic E.,Sweden,,,08/05/1987,1,1166,
+Klein B.,Great Britain,188,83,31/12/1989,1,1167,23.48347669
+Dimitrov G.,Bulgaria,191,81,16/05/1991,1,1168,22.20333872
+Ferreiro F.,Brazil,188,82,01/07/1984,1,1169,23.20054323
+Lacko L.,Slovakia,188,87,03/11/1987,1,1170,24.6152105
+Ward J.,Great Britain,188,78,09/02/1987,1,1171,22.06880942
+Goodall J.,Great Britain,188,,17/10/1985,1,1172,
+Sidorenko A.,France,185,80,18/02/1988,1,1173,23.37472608
+Ilhan M.,Turkey,191,80,11/06/1987,1,1174,21.92922343
+Sorensen L.,Ireland,175,78,07/01/1985,1,1175,25.46938776
+Souza J.,Brazil,193,92,27/05/1988,1,1176,24.69864963
+Ramos-Vinolas A.,Spain,188,76,17/01/1988,0,1177,21.50294251
+Munoz-De La Nava D.,,,,,0,1178,
+Fischer M.,Austria,180,71,21/07/1986,1,1179,21.91358025
+Zampieri C.,Brazil,183,79,27/05/1986,1,1180,23.58983547
+Gonzalez S.,Mexico,191,92,24/02/1983,1,1181,25.21860695
+Kuznetsov An.,Russia,185,71,22/02/1991,1,1182,20.74506939
+Teixeira M.,France,185,,18/01/1989,1,1183,
+Wang J.,Chinese Taipei,178,64,08/02/1985,1,1184,20.19946976
+Yani M.,USA,185,75,31/12/1980,1,1185,21.9138057
+Dasnieres de Veigy J.,,,,,0,1186,
+Cervenak P.,Slovakia,191,77,01/07/1987,1,1187,21.10687755
+Del Bonis F.,,,,,0,1188,
+Ito T.,Japan,180,75,18/05/1988,1,1189,23.14814815
+Dutra Da Silva R.,,,,,0,1190,
+Rodrigues M.,France,180,76,07/11/1985,1,1191,23.45679012
+Farah R.,Colombia,193,89,06/11/1987,1,1192,23.89325888
+Cervantes I.,Spain,183,78,30/11/1989,1,1193,23.29122996
+Pavic M.,Croatia,191,83,04/07/1993,0,1194,22.75156931
+Janowicz J.,Poland,203,94,13/11/1990,1,1195,22.81055109
+De Schepper K.,,,,,0,1196,
+Johnson S.,USA,188,86,24/12/1989,1,1197,24.33227705
+Novikov D.,USA,193,91,06/11/1993,1,1198,24.43018605
+Jones G.,Australia,190,85,31/01/1989,1,1199,23.54570637
+Elias G.,Portugal,183,76,24/11/1990,1,1200,22.69401893
+Basic M.,Bosnia and Herzeg.,188,88,12/07/1991,1,1201,24.89814396
+Evans D.,Great Britain,175,75,23/05/1990,1,1202,24.48979592
+Kuznetsov Al.,USA,182,70,05/02/1987,1,1203,21.13271344
+Estrella Burgos V.,,,,,0,1204,
+Gomez E.,Ecuador,185,81,28/11/1991,1,1205,23.66691015
+Pospisil J.,Czech Republic,178,72,09/02/1981,1,1206,22.72440348
+Vesely J.,Czech Republic,198,94,10/07/1993,0,1207,23.97714519
+Ramanathan R.,India,188,80,08/11/1994,1,1208,22.63467632
+Dzumhur D.,Bosnia and Herzeg.,175,68,20/05/1992,1,1209,22.20408163
+Rola B.,Slovenia,193,85,05/10/1990,0,1210,22.81940455
+Daniel T.,Japan,191,80,27/01/1993,1,1211,21.92922343
+Delic M.,Croatia,196,86,29/04/1993,1,1212,22.38650562
+Marti Y.,Switzerland,173,74,07/06/1988,1,1213,24.72518293
+Zverev A.,Germany,198,90,20/04/1997,1,1214,22.95684114
+Venus M.,New Zealand,191,86,16/10/1987,1,1215,23.57391519
+Nishioka Y.,Japan,170,64,27/09/1995,0,1216,22.14532872
+De Greef A.,,,,,0,1217,
+Mina G.,France,188,85,09/02/1992,1,1218,24.04934359
+Arnaboldi A.,Italy,180,72,27/12/1987,0,1219,22.22222222
+Fritz T.,USA,193,86,28/10/1997,1,1220,23.08786813
+Sarkissian A.,USA,191,79,03/04/1990,1,1221,21.65510814
+Tiafoe F.,USA,188,86,20/01/1998,1,1222,24.33227705
+Zhang Zh.,China,193,87,16/10/1996,1,1223,23.35633171
+Barton M.,Australia,191,85,18/12/1991,1,1224,23.2997999
+Thompson J.,Australia,183,82,20/04/1994,1,1225,24.48565201
+Rubin N.,USA,175,70,21/02/1996,1,1226,22.85714286
+Paul T.,USA,185,82,17/05/1997,1,1227,23.95909423
+Kozlov S.,USA,183,79,01/02/1998,1,1228,23.58983547
+Medvedev D.,Russia,198,83,11/02/1996,1,1229,21.17130905
+Escobedo E.,Mexico,185,82,04/07/1996,1,1230,23.95909423
+Willis M.,Great Britain,191,91,09/10/1990,0,1231,24.94449165
+Munoz De La Nava D.,,,,,0,1232,
+De Minaur A.,Australia,183,69,17/02/1999,1,1233,20.60378035
+King D.,Barbados,188,77,26/04/1992,1,1234,21.78587596
+Ruud C.,Norway,183,77,22/12/1998,1,1235,22.99262444
+Ahouda A.,Morocco,185,76,11/09/1997,1,1236,22.20598977
+Quinzi G.,Italy,191,84,01/02/1996,0,1237,23.0256846
+Silva F.F.,Portugal,178,74,18/03/1995,0,1238,23.35563691
+Sousa P.,Portugal,180,70,27/05/1988,1,1239,21.60493827
+Bonzi B.,France,185,76,09/06/1996,1,1240,22.20598977
+Norrie C.,Great Britain,188,82,23/08/1995,0,1241,23.20054323
+Santillan A.,Australia,180,78,22/05/1997,1,1242,24.07407407
+King E.,USA,185,79,25/03/1992,0,1243,23.082542
+Krueger M.,USA,188,82,12/01/1994,1,1244,23.20054323
+Mcdonald M.,USA,178,73,16/04/1995,1,1245,23.0400202
+Coria F.,Argentina,180,73,09/03/1992,1,1246,22.5308642
+Hurkacz H.,Poland,196,81,11/02/1997,1,1247,21.0849646
+Clarke J.,Great Britain,188,82,27/07/1998,1,1248,23.20054323
+Jung J.,Chinese Taipei,180,69,15/06/1989,1,1249,21.2962963
+Gerasimov E.,Belarus,196,86,11/11/1992,1,1250,22.38650562
+Giron M.,USA,180,77,24/07/1993,1,1251,23.7654321
+Harris L.,RSA,193,80,24/02/1997,1,1252,21.47708663
+Caruso S.,Italy,185,80,15/12/1992,1,1253,23.37472608
+Otte O.,Germany,193,79,16/07/1993,1,1254,21.20862305
+Hoang A.,France,183,76,04/11/1995,1,1255,22.69401893
+Kwon S.W.,South Korea,180,72,02/12/1997,1,1256,22.22222222
+King K.,USA,191,86,28/02/1991,0,1257,23.57391519
+Moroni G.,Italy,185,81,13/02/1998,1,1258,23.66691015
+Mager G.,Italy,188,77,01/12/1994,1,1259,21.78587596
+Alcaraz C.,Spain,185,72,05/05/2003,1,1260,21.03725347
+Wolf J.J.,USA,183,79,21/12/1998,1,1261,23.58983547
+O Connell C.,,,,,0,1262,
+Musetti L.,Italy,185,75,03/03/2002,1,1263,21.9138057
+Korda S.,USA,193,75,05/07/2000,1,1264,20.13476872
+Galan D.,Colombia,191,72,18/06/1996,1,1265,19.73630109
+Pellegrino A.,Italy,185,81,23/03/1997,1,1266,23.66691015
+Andreev A.,Bulgaria,180,66,12/05/2001,1,1267,20.37037037
+Purcell M.,Australia,185,75,03/04/1998,1,1268,21.9138057
+Van De Zandschulp B.,,,,,0,1269,
+Harris A.,Australia,183,81,07/03/1994,1,1270,24.18704649
+Muller A.,France,183,75,01/02/1997,1,1271,22.39541342
+Klein L.,Slovakia,193,85,22/03/1998,1,1272,22.81940455
+Rune H.,Denmark,185,68,29/04/2003,1,1273,19.86851717
+Borges N.,Portugal,185,75,19/02/1997,1,1274,21.9138057
+Moraing M.,Germany,198,84,20/06/1992,0,1275,21.42638506
+Baez S.,Argentina,170,70,28/12/2000,1,1276,24.22145329
+Erler A.,Austria,193,83,27/10/1997,1,1277,22.28247738
+Pucinelli de Almeida M.,Brazil,,,01/04/2001,1,1278,
+Gray A.,Great Britain,188,73,22/06/1998,1,1279,20.65414215
+Shelton B.,USA,,,09/10/2002,0,1280,
+Holt B.,USA,185,82,06/04/1998,1,1281,23.95909423
+Kovacevic A.,USA,183,76,29/08/1998,1,1282,22.69401893
+Lazarov A.,Bulgaria,191,84,06/11/1997,1,1283,23.0256846
+Shevchenko A.,Kazakhstan,185,70,29/11/2000,1,1284,20.45288532
+Borg L.,Sweden,,,15/05/2003,1,1285,
+Tu L.,Australia,,,27/05/1996,1,1286,
+Kumar O.,USA,,,10/10/2001,0,1287,
+Mochizuki S.,Japan,,,02/06/2003,1,1288,
+Harris B.,Great Britain,191,86,25/01/1995,1,1289,23.57391519
+De Jong J.,,,,,0,1290,
+Moreno De Alboran N.,USA,185,82,14/07/1997,1,1291,23.95909423
+Fonseca J.,Brazil,185,73,21/08/2006,1,1292,21.32943755
+Rocha H.,Portugal,,,06/04/2004,1,1293,
+Dodig M.,Croatia,,,19/07/2005,1,1294,
+Tien L.,USA,,,02/12/2005,0,1295,
+Nielsen M.,New Zealand,,,08/10/1977,1,1296,
+Reichel A.,USA,,,09/03/1971,1,1297,
+Bryan B.,USA,193,88,29/04/1978,0,1298,23.6247953
+Gallardo M.,Mexico,,,08/04/1981,1,1299,
+Bahrouzyan O.,,,,,0,1300,
+Abel M.,Germany,,76,28/02/1982,1,1301,
+El Aarej M.,Morocco,,,16/06/1977,1,1302,
+Cook L.,USA,180,,24/04/1984,1,1303,
+Urban F.,Poland,,,23/03/1982,1,1304,
+Yoo D.,South Korea,178,80,25/09/1985,0,1305,25.2493372
+Pedroso A.,USA,,,21/02/1979,1,1306,
+Rascon T.,,,,,0,1307,
+Jones G.D.,,,,,0,1308,
+Nunez E.,USA,,85,09/04/1982,1,1309,
+Blake T.,USA,,,29/12/1976,1,1310,
+Condor F.,Spain,,,10/01/1984,1,1311,
+Klein T.,Germany,,,23/03/1982,1,1312,
+Clayton A.,USA,,,23/11/1987,1,1313,
+Sanchez de Luna J.A.,Spain,,,18/10/1984,1,1314,
+Van der Dium A.,Netherlands,185,80,16/09/1987,1,1315,23.37472608
+Salva B.,Spain,183,79,20/11/1986,0,1316,23.58983547
+Peric T.,Croatia,,,10/04/1983,1,1317,
+Popp T.,Germany,,,25/11/1983,1,1318,
+Roshardt R.,Switzerland,,,22/02/1988,1,1319,
+Kutac R.,,,,,0,1320,
+Dev Varman S.,,,,,0,1321,
+Yu X.Y.,,,,,0,1322,
+Smit J.,Netherlands,,,17/11/1980,1,1323,
+Fish A.,USA,,,01/11/1982,1,1324,
+Jun W.,South Korea,191,90,14/06/1986,1,1325,24.67037636
+Koning M.,Netherlands,,80,01/05/1984,1,1326,
+Ruevski P.,,,,,0,1327,
+Gard C.,Romania,175,67,10/07/1981,1,1328,21.87755102
+Martin D.,Canada,,,09/05/1999,1,1329,
+Raja P.,India,183,90,07/12/1985,1,1330,26.8744961
+Nam H.W.,South Korea,,,09/01/1985,1,1331,
+Chekov P.,Russia,,72,27/07/1988,1,1332,
+Vardhan V.,India,188,84,27/07/1987,1,1333,23.76641014
+Munoz de la Nava D.,,,,,0,1334,
+Rodriguez B.,Mexico,,,28/10/1986,1,1335,
+Nader M.,,,,,0,1336,
+Sanchez De Luna J.,,,,,0,1337,
+Kim K,,,,,0,1338,
+O'Neal J.,,,,,0,1339,
+Kondo H.,Japan,178,77,05/11/1982,1,1340,24.30248706
+Anderson A.,RSA,193,73,08/04/1983,1,1341,19.59784155
+Munoz de La Nava D.,,,,,0,1342,
+Fleming C.,Great Britain,188,75,13/08/1984,1,1343,21.22000905
+Buchanan C.,USA,193,79,04/06/1991,1,1344,21.20862305
+Luncanu P.A.,Romania,185,80,07/05/1989,0,1345,23.37472608
+Valent R.,Argentina,,,25/07/2004,1,1346,
+Biryukov M.,Russia,,,28/04/1992,1,1347,
+Deheart R.,,,,,0,1348,
+Sabry S.,Egypt,,,29/08/1986,1,1349,
+Rios F.,Chile,,,04/03/1992,1,1350,
+Garza D.,Mexico,,,08/04/1985,1,1351,
+Sanchez M.,Mexico,,78,05/01/1991,1,1352,
+Granollers Pujol G.,Spain,,,30/01/1989,1,1353,
+Walter L.,France,,,04/01/1983,1,1354,
+Kern R.,Germany,188,87,03/10/1993,1,1355,24.6152105
+Mitchell B.,Australia,183,80,30/11/1992,1,1356,23.88844098
+Lajola D.,USA,,,12/02/1989,1,1357,
+Meister N.,USA,180,77,15/05/1989,1,1358,23.7654321
+Vasilevski A.,Belarus,185,81,28/05/1991,1,1359,23.66691015
+Singh S.,,,,,0,1360,
+Eriksson M.,Sweden,188,80,29/11/1989,1,1361,22.63467632
+Ward A.,Great Britain,185,85,30/04/1990,1,1362,24.83564646
+Altamirano C.,USA,188,85,07/12/1995,1,1363,24.04934359
+Nedovyesov O.,,,,,0,1364,
+Sekulic M.,Sweden,178,73,04/11/1989,1,1365,23.0400202
+Artunedo Martinavarro A.,Spain,183,76,14/09/1993,1,1366,22.69401893
+Hank T.,Mexico,188,85,30/09/1991,0,1367,24.04934359
+Vaisse M.,France,,,11/08/1987,1,1368,
+Thompson C.,USA,198,86,04/05/1992,1,1369,21.93653709
+De Paula F.,,,,,0,1370,
+Takeuchi K.,Japan,,,19/12/1987,0,1371,
+Gao X.,China,,,12/05/1994,1,1372,
+Prashanth V.,,,,,0,1373,
+Martin F.,,,,,0,1374,
+Silva F.,Portugal,178,74,18/03/1995,0,1375,23.35563691
+Hamou M.,France,185,75,08/06/1995,1,1376,21.9138057
+Trevisan M.,Italy,183,80,13/08/1989,1,1377,23.88844098
+Shane R.,USA,193,89,15/04/1994,1,1378,23.89325888
+Niki T.,Japan,183,73,12/10/1987,1,1379,21.79820239
+Anderson O.,Australia,175,73,30/04/1998,1,1380,23.83673469
+Patino L.,Mexico,,,06/10/1993,1,1381,
+Moeller M.,Germany,178,69,18/01/1999,1,1382,21.77755334
+De Loore J.,Belgium,191,86,21/04/1993,1,1383,23.57391519
+O'Connell C.,Australia,183,78,03/06/1994,1,1384,23.29122996
+Alawadhi O.,,,,,0,1385,
+Luz O.,Brazil,180,78,08/02/1998,1,1386,24.07407407
+Tyurnev E.,,,,,0,1387,
+Catarina L.,Monaco,185,80,26/08/1996,1,1388,23.37472608
+Janvier M.,France,193,80,18/10/1996,1,1389,21.47708663
+Arevalo M.,El Salvador,191,86,17/10/1990,1,1390,23.57391519
+Lenz J.,Germany,188,82,17/02/1993,1,1391,23.20054323
+Monteiro J.,Portugal,178,77,27/12/1993,1,1392,24.30248706
+Shi B.,,,,,0,1393,
+Meligeni Rodrigues F,Brazil,185,78,19/02/1998,1,1394,22.79035793
+Blanch U.,USA,188,78,25/03/1998,1,1395,22.06880942
+Aragone J.C.,USA,178,79,28/06/1995,1,1396,24.93372049
+Ferreira Silva F.,Portugal,178,74,18/03/1995,0,1397,23.35563691
+Moroni G.M.,Italy,185,81,13/02/1998,1,1398,23.66691015
+Mena F.,Argentina,183,78,22/09/1992,1,1399,23.29122996
+Shimizu Y.,Japan,163,62,09/06/1999,0,1400,23.33546614
+Chidekh C.,France,,,13/06/2001,1,1401,
+Rincon D.,Spain,,,07/01/2003,0,1402,
+Mu T.,China,180,75,28/04/2000,1,1403,23.14814815
+Mo Y.,China,,,26/06/2000,1,1404,
+Bu Y.,,,,,0,1405,
+Te R.,China,188,80,09/10/1997,1,1406,22.63467632
+Hassan B.,Lebanon,183,85,04/02/1995,1,1407,25.38146854
+Martineau M.,France,183,76,16/01/1999,1,1408,22.69401893
+Neff A.,USA,,,30/05/2001,1,1409,
+Broom C.,Great Britain,178,82,24/04/1998,1,1410,25.88057064
+McDonald M.,USA,178,73,16/04/1995,1,1411,23.0400202
+Onclin G.,Belgium,,,26/02/2001,1,1412,
+Samrej K.,Thailand,,,20/01/2001,1,1413,
+Cina F.,Italy,,,30/03/2007,1,1414,
+Basavareddy N.,USA,,,02/05/2005,1,1415,
+Habib H.,Lebanon,188,85,21/08/1998,1,1416,24.04934359
+Sakamoto R.,Japan,,,24/06/2006,1,1417,
+Boyer T.,USA,,,21/04/2001,1,1418,
+Smith C.,USA,,,05/03/2003,1,1419,
+Moller E.,Denmark,183,73,09/07/2003,1,1420,
