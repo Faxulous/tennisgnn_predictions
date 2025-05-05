@@ -1,36 +1,21 @@
-import pandas as pd
 from shin import calculate_implied_probabilities
-# Read tennisdata.csv and create both (A,B) and (B,A) orderings
-raw = pd.read_csv('tennisdata.csv')
+import pandas as pd
 
-# (A=winner, B=loser)
-ab = raw.rename(columns={'W': 'A', 'L': 'B', 'PSW': 'PSA', 'PSL': 'PSB'})
-ab['Awin'] = 1
-# (A=loser, B=winner)
-ba = raw.rename(columns={'W': 'B', 'L': 'A', 'PSW': 'PSB', 'PSL': 'PSA'})
-ba['Awin'] = 0
+# Read the CSV file
+file_path = 'preds_updated.csv'
+df = pd.read_csv(file_path)
 
-# Combine both orderings
-data = pd.concat([ab[['A','B','Awin','PSA','PSB']], ba[['A','B','Awin','PSA','PSB']]], ignore_index=True)
+# Iterate over each row to calculate implied probabilities and update ps_prob
+for index, row in df.iterrows():
+    psa, psb = row['PSA'], row['PSB']
+    probabilities = calculate_implied_probabilities([psa, psb])
+    df.at[index, 'ps_prob'] = probabilities[0]
 
-# Calculate ps_prob using Shin's method
-ps_probs = []
-for _, row in data.iterrows():
-    try:
-        psa, psb = float(row['PSA']), float(row['PSB'])
-        ps_prob = calculate_implied_probabilities([psa, psb])[0]
-    except Exception:
-        ps_prob = None
-    ps_probs.append(ps_prob)
-data['ps_prob'] = ps_probs
+# Fill NaN values in the Awin column with 0 before converting to integers
+df['Awin'] = df['Awin'].fillna(0).astype(int)
 
-# Read preds.csv
-preds = pd.read_csv('preds.csv')
+# Save the updated DataFrame back to the CSV
+updated_file_path = 'preds_updated_updated.csv'
+df.to_csv(updated_file_path, index=False)
 
-# Merge, updating Awin, PSA, PSB, ps_prob
-preds_updated = preds.drop(['Awin','PSA','PSB','ps_prob'], axis=1, errors='ignore').merge(
-    data, on=['A','B'], how='left')
-
-# Save
-preds_updated.to_csv('preds.csv', index=False)
-print('Updated preds saved to preds.csv') 
+print(f"Updated CSV saved to {updated_file_path}")
