@@ -8,6 +8,14 @@ This repository will serve as a demonstration of our model, with no possiblity o
 
 available at [11th MathSport International Conference Proceedings 2025](https://math.uni.lu/midas/events/mathsports2025/).
 
+**Results as of 19/05**:
+| Model       | Accuracy | Brier Score | ROI (Unit) | ROI (Kelly) |
+|-------------|----------|-------------|------------|-------------|
+| ps_prob     | 0.672    | 0.211       | -0.017     | 0.000       |
+| model_prob  | 0.633    | 0.233       | 0.090      | 0.036       |
+| welo_prob   | 0.637    | 0.222       | 0.037      | 0.022       |
+| bt_prob     | 0.625    | 0.230       | 0.034      | 0.019       |
+
 ## Tournaments 
 
 The predictions will cover every main-draw event from [all Grand Slam and ATP Masters 1000 tournaments held on Clay courts](https://en.wikipedia.org/wiki/2025_ATP_Tour) starting with the Monte-Carlo Masters and ending with the French Open, also known as Roland-Garros:
