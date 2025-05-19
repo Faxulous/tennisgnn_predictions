@@ -1,0 +1,18 @@
+A,B,model_prob,welo_prob,Awin,prob_diff,involved_in_loop,intransitive_loops
+Davidovich Fokina A.,Shelton B.,0.7152,0.4135,1,0.30169999999999997,False,
+Arnaldi M.,Gasquet R.,0.4607,0.6145,0,0.15380000000000005,False,
+Muller A.,Ugo Carabelli C.,0.7045,0.495,1,0.20950000000000002,False,
+Auger-Aliassime F.,Altmaier D.,0.4554,0.6694,0,0.21399999999999997,True,Auger-Aliassime F. > Nardi L. > Altmaier D.
+Lajovic D.,Cobolli F.,0.4477,0.5014,0,0.05369999999999997,False,
+Tiafoe F.,Popyrin A.,0.4132,0.5796,0,0.1664,True,Tiafoe F. > Karatsev A. > Popyrin A.
+Draper J.,Davidovich Fokina A.,0.3579,0.6736,0,0.3157,True,Draper J. > Coric B. > Davidovich Fokina A.
+Berrettini M.,Musetti L.,0.3436,0.5389,0,0.19530000000000003,False,
+De Minaur A.,Medvedev D.,0.503,0.3426,1,0.1604,True,Medvedev D. > Zverev A. > De Minaur A.; Medvedev D. > Tsitsipas S. > De Minaur A.
+Mpetshi G.,Navone M.,0.4658,0.5449,0,0.07910000000000006,False,
+Safiullin R.,Rinderknech A.,0.4677,0.6727,0,0.20499999999999996,False,
+Borges N.,Carreno-Busta P.,0.5022,0.4897,1,0.012499999999999956,False,
+Michelsen A.,Bublik A.,0.3184,0.5535,0,0.23509999999999998,False,
+Marozsan F.,Cobolli F.,0.4851,0.6375,0,0.15239999999999998,True,Marozsan F. > Alcaraz C. > Cobolli F.
+Fognini F.,Djere L.,0.4822,0.592,0,0.10980000000000001,False,
+Popyrin A.,Bublik A.,0.3975,0.5916,0,0.19410000000000005,False,
+Medvedev D.,Ruud C.,0.4848,0.635,0,0.1502,True,Medvedev D. > Rune H. > Ruud C.; Medvedev D. > Kecmanovic M. > Ruud C.; Medvedev D. > Arnaldi M. > Ruud C.; Medvedev D. > Zverev A. > Ruud C.; Medvedev D. > Tsitsipas S. > Ruud C.
