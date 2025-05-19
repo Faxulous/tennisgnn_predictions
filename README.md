@@ -11,10 +11,10 @@ available at [11th MathSport International Conference Proceedings 2025](https://
 **Results as of 19/05**:
 | Model       | Accuracy | Brier Score | ROI (Unit) | ROI (Kelly) |
 |-------------|----------|-------------|------------|-------------|
-| ps_prob     | 0.672    | 0.211       | -0.017     | 0.000       |
-| model_prob  | 0.633    | 0.233       | 0.090      | 0.036       |
-| welo_prob   | 0.637    | 0.222       | 0.037      | 0.022       |
-| bt_prob     | 0.625    | 0.230       | 0.034      | 0.019       |
+| PS     | 0.672    | 0.211       |      |        |
+| GNN  | 0.633    | 0.233       | 0.090      | 0.036       |
+| WElo   | 0.637    | 0.222       | 0.037      | 0.022       |
+| Bradley Terry     | 0.625    | 0.230       | 0.034      | 0.019       |
 
 ## Tournaments 
 
