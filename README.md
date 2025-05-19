@@ -16,6 +16,8 @@ available at [11th MathSport International Conference Proceedings 2025](https://
 | WElo   | 0.637    | 0.222       | 0.037      | 0.022       |
 | Bradley Terry     | 0.625    | 0.230       | 0.034      | 0.019       |
 
+<img src="data/pnl_3masters.svg" alt="pnl" width=500 />
+
 ## Tournaments 
 
 The predictions will cover every main-draw event from [all Grand Slam and ATP Masters 1000 tournaments held on Clay courts](https://en.wikipedia.org/wiki/2025_ATP_Tour) starting with the Monte-Carlo Masters and ending with the French Open, also known as Roland-Garros:
