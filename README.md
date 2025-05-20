@@ -21,17 +21,26 @@ available at [11th MathSport International Conference Proceedings 2025](https://
 
 ## File description
 *   `README.md`: This file, providing an overview of the project.
+*   `preds.csv`: CSV file containing **all model predictions.**
 *   `data/`: Directory containing data files.
     *   `pnl_3masters.svg`: SVG image file, displaying cumulative profit and loss (PNL).
     *   `atp.csv`: Training data, updated at end of each tournament.
     *   `atp3tourns.csv`: Matches from the first 3 tournaments.
     *   `men.csv`: Player features, to be used for node features.
 *   `helpers/`: Directory containing helper scripts.
-    *   `evaluate_predictions.py`: Python script for evaluating model predictions.
-    *   `analyze_preds.py`: Python script for analyzing predictions.
-    *   `merge.py`: Python script, likely for merging data from different sources.
-    *   `update_preds_with_ps.py`: Python script for updating predictions, possibly with data from Pinnacle Sports (PS).
-*   `preds.csv`: CSV file containing model predictions.
+    *   `evaluate_predictions.py`: Script for calculating accuracy statistics and profit and loss.
+    *   `merge.py`: Script to merge new atp data with prediction file.
+    *   `update_preds_with_ps.py`: Script to update preds.csv with ps_prob calculated from PSA and PSB.
+
+## preds.csv Description
+
+- A and B state players names with random assignment.
+- Awin: contains binary indicators of whether A won or not (1 or 0).
+- PSA and PSB: The listed odds from Pinnacle Sports for players A and B respectively. Odds are obtained from [tennis-data.co.uk](tennis-data.co.uk).
+- ps_prob: The odds-implied probability for player A, estimated using Shin's method [[3](#3), [4](#4)].
+- model_prob: Our model's estimated probability for player A to win against player B.
+- welo_prob: The probability of player A winning against player B calculated with Weighted Elo [1](#1).
+- bt_prob: The probability of player A winning against player B calculated with a Bradley Terry model [2](#2).
 
 
 ## Tournaments 
@@ -59,15 +68,6 @@ Our betting model will be detailed fully in our published work, so we state simp
 - **Unit**: Bet on the player the model determines as the favourite (probablity>0.5), irrespective of bookmaker odds. Bets are all equally sized at 0.1 units.
 - **Kelly**: Bet on the player the model determines as the favourite (probability>0.5), only if the estimated probalility exceed that of the 1/o, where o is the decimal bookmaker odds for the favourite. The stake size is determined by the Kelly criterion.
 
-## Data description
-
-- A and B state players names with random assignment.
-- Awin: contains binary indicators of whether A won or not (1 or 0).
-- PSA and PSB: The listed odds from Pinnacle Sports for players A and B respectively. Odds are obtained from [tennis-data.co.uk](tennis-data.co.uk).
-- ps_prob: The odds-implied probability for player A, estimated using Shin's method [[3](#3), [4](#4)].
-- model_prob: Our model's estimated probability for player A to win against player B.
-- welo_prob: The probability of player A winning against player B calculated with Weighted Elo [1](#1).
-- bt_prob: The probability of player A winning against player B calculated with a Bradley Terry model [2](#2).
 
 ## Usage
 
