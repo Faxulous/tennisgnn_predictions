@@ -18,6 +18,22 @@ available at [11th MathSport International Conference Proceedings 2025](https://
 
 <img src="data/pnl_3masters.svg" alt="pnl" width=500 />
 
+
+## File description
+*   `README.md`: This file, providing an overview of the project.
+*   `data/`: Directory containing data files.
+    *   `pnl_3masters.svg`: SVG image file, displaying cumulative profit and loss (PNL).
+    *   `atp.csv`: Training data, updated at end of each tournament.
+    *   `atp3tourns.csv`: Matches from the first 3 tournaments.
+    *   `men.csv`: Player features, to be used for node features.
+*   `helpers/`: Directory containing helper scripts.
+    *   `evaluate_predictions.py`: Python script for evaluating model predictions.
+    *   `analyze_preds.py`: Python script for analyzing predictions.
+    *   `merge.py`: Python script, likely for merging data from different sources.
+    *   `update_preds_with_ps.py`: Python script for updating predictions, possibly with data from Pinnacle Sports (PS).
+*   `preds.csv`: CSV file containing model predictions.
+
+
 ## Tournaments 
 
 The predictions will cover every main-draw event from [all Grand Slam and ATP Masters 1000 tournaments held on Clay courts](https://en.wikipedia.org/wiki/2025_ATP_Tour) starting with the Monte-Carlo Masters and ending with the French Open, also known as Roland-Garros:
