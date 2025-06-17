@@ -39,8 +39,8 @@ available at [11th MathSport International Conference Proceedings 2025](https://
 - PSA and PSB: The listed odds from Pinnacle Sports for players A and B respectively. Odds are obtained from [tennis-data.co.uk](tennis-data.co.uk).
 - ps_prob: The odds-implied probability for player A, estimated using Shin's method [[3](#3), [4](#4)].
 - model_prob: Our model's estimated probability for player A to win against player B.
-- welo_prob: The probability of player A winning against player B calculated with Weighted Elo [1](#1).
-- bt_prob: The probability of player A winning against player B calculated with a Bradley Terry model [2](#2).
+- welo_prob: The probability of player A winning against player B calculated with Weighted Elo [[1](#1)].
+- bt_prob: The probability of player A winning against player B calculated with a Bradley Terry model [[2](#2)].
 
 
 ## Tournaments 
