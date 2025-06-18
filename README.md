@@ -8,7 +8,7 @@ This repository will serve as a demonstration of our model, with no possiblity o
 
 available at [11th MathSport International Conference Proceedings 2025](https://math.uni.lu/midas/events/mathsports2025/).
 
-**Results as of 19/05**:
+**Final Results**:
 | Model       | Accuracy | Brier Score | ROI (Unit) | ROI (Kelly) |
 |-------------|----------|-------------|------------|-------------|
 | PS     | 0.691    | 0.198       | -0.024 | 0.000  |
